@@ -12,6 +12,6 @@ date,match,team,stake,odds,potential_return,bet_id,status,result,profit,closing_
 2026-02-26 17:34,Wolves v Aston Villa,Aston Villa,20.0,1.94,38.8,419844018427,MATCHED,LOST,-20,1.80,7.78,
 2026-02-26 17:34,Elche v Espanyol,Elche,12.0,2.54,30.48,419844019115,MATCHED,LOST,-12,2.54,0.0,
 2026-03-01 23:18,Newcastle v Man Utd,Man Utd,25,2.7,67.5,420345582087,MATCHED,LOST,-25,2.64,2.27,
-2026-03-01 23:18,Tottenham v Crystal Palace,Crystal Palace,15,3.25,48.75,420345582838,MATCHED,PENDING,0,3.2,1.56,
+2026-03-01 23:18,Tottenham v Crystal Palace,Crystal Palace,15,3.25,48.75,420345582838,MATCHED,WON,33.75,3.00,8.33,
 2026-03-02 22:45,Getafe v Betis,Betis,20,2.97,59.4,420423108269,MATCHED,PENDING,0,2.9,2.41,
 2026-03-04 19:55,Espanyol v Oviedo,Espanyol,15,1.94,29.10,420621181023,MATCHED,PENDING,0,,,Espanyol winless in 2026 but Oviedo worst away form in league
