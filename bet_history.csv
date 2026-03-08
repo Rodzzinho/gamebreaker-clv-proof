@@ -1,17 +1,17 @@
-date,match,team,stake,odds,potential_return,bet_id,status,result,profit,closing_odds,clv,notes
-2026-02-17 22:30,Betis v Rayo Vallecano,Betis,30,1.99,59.70,manual_1,MATCHED,LOST,-30,1.92,3.65,
-2026-02-17 22:35,Getafe v Sevilla,Sevilla,40,3.55,142.00,manual_2,MATCHED,WON,102,3.40,4.41,
-2026-02-17 22:40,Villarreal v Valencia,Villarreal,30,1.89,56.70,manual_3,MATCHED,WON,26.70,1.68,12.50,
-2026-02-17 22:56,Athletic Bilbao v Elche,Athletic,35,1.68,58.80,418893363365,MATCHED,WON,23.80,1.65,1.82,
-2026-02-19 19:34,West Ham v Bournemouth,Bournemouth,25,2.92,73.0,419048037302,MATCHED,LOST,-25,2.95,-1.02,
-2026-02-23 20:00,Everton v Man United,Man United,30,1.99,59.70,manual_4,MATCHED,WON,29.70,1.89,5.29,
-2026-02-23 17:03,Mallorca v Real Sociedad,Real Sociedad,25,2.5,62.5,419554436777,MATCHED,WON,37.5,2.25,11.11,
-2026-02-23 17:03,Fulham v West Ham,Fulham,19.12,2.04,39.0,419554439712,MATCHED,LOST,-19.12,2.28,-10.53,Placed in error by automation - included for transparency
-2026-02-23 17:09,Fulham v Tottenham,Fulham,20,2.22,44.4,419554982032,MATCHED,WON,24.4,2.18,1.83,
-2026-02-23 17:03,Girona v Celta Vigo,Celta,10,2.9,29.0,419554441904,MATCHED,WON,19,3.1,-6.45,
-2026-02-26 17:34,Wolves v Aston Villa,Aston Villa,20.0,1.94,38.8,419844018427,MATCHED,LOST,-20,1.80,7.78,
-2026-02-26 17:34,Elche v Espanyol,Elche,12.0,2.54,30.48,419844019115,MATCHED,LOST,-12,2.54,0.0,
-2026-03-01 23:18,Newcastle v Man Utd,Man Utd,25,2.7,67.5,420345582087,MATCHED,LOST,-25,2.64,2.27,
-2026-03-01 23:18,Tottenham v Crystal Palace,Crystal Palace,15,3.25,48.75,420345582838,MATCHED,WON,33.75,3.00,8.33,
-2026-03-02 22:45,Getafe v Betis,Betis,20,2.97,59.4,420423108269,MATCHED,PENDING,0,2.9,2.41,
-2026-03-04 19:55,Espanyol v Oviedo,Espanyol,15,1.94,29.10,420621181023,MATCHED,PENDING,0,,,Espanyol winless in 2026 but Oviedo worst away form in league
+date,match,team,stake,odds,potential_return,bet_id,status,result,profit,closing_odds,clv,model_prob,closing_prob,price_stability,notes
+2026-02-17 22:30,Betis v Rayo Vallecano,Betis,30,1.99,59.70,manual_1,MATCHED,LOST,-30,1.92,3.65,50.25,52.08,+1.83,
+2026-02-17 22:35,Getafe v Sevilla,Sevilla,40,3.55,142.00,manual_2,MATCHED,WON,102,3.40,4.41,28.17,29.41,+1.24,
+2026-02-17 22:40,Villarreal v Valencia,Villarreal,30,1.89,56.70,manual_3,MATCHED,WON,26.70,1.68,12.50,52.91,59.52,+6.61,
+2026-02-17 22:56,Athletic Bilbao v Elche,Athletic,35,1.68,58.80,418893363365,MATCHED,WON,23.80,1.65,1.82,59.52,60.61,+1.09,
+2026-02-19 19:34,West Ham v Bournemouth,Bournemouth,25,2.92,73.0,419048037302,MATCHED,LOST,-25,2.95,-1.02,34.25,33.90,-0.35,
+2026-02-23 20:00,Everton v Man United,Man United,30,1.99,59.70,manual_4,MATCHED,WON,29.70,1.89,5.29,50.25,52.91,+2.66,
+2026-02-23 17:03,Mallorca v Real Sociedad,Real Sociedad,25,2.5,62.5,419554436777,MATCHED,WON,37.5,2.25,11.11,40.00,44.44,+4.44,
+2026-02-23 17:03,Fulham v West Ham,Fulham,19.12,2.04,39.0,419554439712,MATCHED,LOST,-19.12,2.28,-10.53,49.02,43.86,-5.16,Placed in error by automation - included for transparency
+2026-02-23 17:09,Fulham v Tottenham,Fulham,20,2.22,44.4,419554982032,MATCHED,WON,24.4,2.18,1.83,45.05,45.87,+0.82,
+2026-02-23 17:03,Girona v Celta Vigo,Celta,10,2.9,29.0,419554441904,MATCHED,WON,19,3.1,-6.45,34.48,32.26,-2.22,
+2026-02-26 17:34,Wolves v Aston Villa,Aston Villa,20.0,1.94,38.8,419844018427,MATCHED,LOST,-20,1.80,7.78,51.55,55.56,+4.01,
+2026-02-26 17:34,Elche v Espanyol,Elche,12.0,2.54,30.48,419844019115,MATCHED,LOST,-12,2.54,0.0,39.37,39.37,+0.00,
+2026-03-01 23:18,Newcastle v Man Utd,Man Utd,25,2.7,67.5,420345582087,MATCHED,LOST,-25,2.64,2.27,37.04,37.88,+0.84,
+2026-03-01 23:18,Tottenham v Crystal Palace,Crystal Palace,15,3.25,48.75,420345582838,MATCHED,WON,33.75,3.00,8.33,30.77,33.33,+2.56,
+2026-03-02 22:45,Getafe v Betis,Betis,20,2.97,59.4,420423108269,MATCHED,LOST,-20,3.20,-7.19,33.67,31.25,-2.42,
+2026-03-04 19:55,Espanyol v Oviedo,Espanyol,15,1.94,29.10,420621181023,MATCHED,PENDING,0,1.96,-1.02,51.55,51.02,-0.53,Espanyol winless in 2026 but Oviedo worst away form in league
