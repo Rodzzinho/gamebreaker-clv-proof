@@ -22,3 +22,13 @@ date,match,team,stake,odds,potential_return,bet_id,status,result,profit,closing_
 2026-03-16 21:41,Bournemouth v Man Utd,Man Utd,25,2.22,55.5,422200179146,MATCHED,LOST,-25,2.26,-1.77,,,,Maguire red card 78' + pen conceded. 2-2 FT. United dominated (14 shots) before red
 2026-03-16 21:41,Villarreal v Real Sociedad,Villarreal,15,1.99182,29.88,422200183895,MATCHED,WON,14.88,2.02,-1.4,,,,"3-1 FT. Villarreal 21 shots, 10 on target. Dominant with 25% possession"
 2026-03-16 21:41,Sevilla v Valencia,Sevilla,15,2.3,34.5,422200190302,MATCHED,LOST,-15,2.36,-2.54,,,,0-2 FT. Valencia goals Hugo Duro 38' Ramazani 45+5'
+2026-04-03 15:10,Monaco v Marseille,Monaco,25.0,2.2200000000000006,55.5,424071615825,MATCHED,PENDING,0,,,,,,"Monaco 5 wins in row. De Zerbi sacked, Greenwood suspended, Aguerd injured. Ligue 1."
+2026-04-03 15:11,Alaves v Osasuna,Alaves,12.0,2.6,31.2,424071760826,MATCHED,PENDING,0,,,,,,n8n + Impect L5 confirmed. La Liga half stake.
+2026-04-03 15:11,Mallorca v Real Madrid,Real Madrid,25.0,1.58,39.5,424071763572,MATCHED,PENDING,0,,,,,,n8n + Impect L5 confirmed. La Liga full stake.
+2026-04-03 15:11,Atletico Madrid v Barcelona,Barcelona,12.0,2.24,26.88,424071765491,MATCHED,PENDING,0,1.81,23.76,,,,n8n + Impect L5 confirmed. La Liga half stake.
+2026-04-07 11:19,Man Utd v Leeds,Man Utd,25,1.64,41.0,424644254828,MATCHED,PENDING,0,1.67,-1.8,,,,
+2026-04-07 11:19,Athletic Bilbao v Villarreal,Villarreal,15,3.3,49.5,424644255956,MATCHED,PENDING,0,3.3,0.0,,,,
+2026-04-07 11:19,Sevilla v Atletico Madrid,Sevilla,15,3.75,56.25,424644257403,MATCHED,PENDING,0,3.35,11.94,,,,
+2026-04-07 11:23,Crystal Palace v Newcastle,Newcastle,20,2.44988,49.0,424644504196,MATCHED,PENDING,0,2.34,4.7,,,,
+2026-04-07 11:24,Toulouse v Lille,Lille,20,2.48,49.6,424644506089,MATCHED,PENDING,0,2.42,2.48,,,,
+2026-04-07 11:24,Chelsea v Man City,Man City,20,2.2,44.0,424644507422,MATCHED,PENDING,0,2.18,0.92,,,,
