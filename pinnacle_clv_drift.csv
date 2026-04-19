@@ -1,0 +1,30 @@
+match,pick,league,entry,PIN 48h,BFE 48h,PIN 24h,BFE 24h,PIN 2h,BFE 2h,result,BFE entry,PIN close,BFE close,tier
+Brentford v Fulham,Brentford,Premier League,2.16,+1.89%,,+2.4%,-1.8%,,+5.88%,TBD,,+6.93%,,T1
+Newcastle v Bournemouth,Bournemouth,Premier League,3.60,-1.10%,,+5.0%,+1.4%,,,W,,+15.38%,,T1
+Spurs v Brighton,Brighton,Premier League,2.56,+4.92%,,+8.9%,+6.7%,,+13.27%,L,,+13.27%,,T1
+Chelsea v Man Utd,Man Utd,Premier League,3.20,+0.31%,,-1.6%,-1.6%,,,TBD,,-6.82%,-5.88%,T5
+Villa v Sunderland,Villa,Premier League,1.69,-0.59%,,-3.4%,-6.1%,,-6.11%,W,,-3.43%,,T5
+Forest v Burnley,Forest,Premier League,1.55,+2.65%,,+2.6%,+1.3%,,+3.33%,W,,+3.33%,,T2
+Everton v Liverpool,Liverpool,Premier League,2.22,-4.31%,,-5.5%,-9.8%,,-4.31%,W,,-5.53%,,T5
+City v Arsenal,City,Premier League,1.94,+4.86%,,+4.9%,+4.9%,,-0.51%,TBD,,+3.74%,+1.57%,T3
+Palace v West Ham,Palace,Premier League,2.30,-2.54%,,-5.3%,-8.7%,,,TBD,,-6.12%,,T5
+Leeds v Wolves,Leeds,Premier League,1.61,,,+0.6%,-1.2%,,+3.87%,TBD,,-5.23%,,T5
+Lens v Toulouse,Lens,Ligue 1,1.59,+5.30%,,+2.4%,+2.4%,,,W,,+3.25%,,T2
+Lorient v Marseille,Marseille,Ligue 1,1.77,-0.56%,,+2.9%,+2.3%,,+4.73%,TBD,,+6.63%,,T1
+Angers v Le Havre,Angers,Ligue 1,2.86,-3.38%,,-4.7%,-9.2%,,,TBD,,-17.00%,,T5
+Lille v Nice,Lille,Ligue 1,1.60,+6.67%,,+7.4%,+3.9%,,,L,,+5.37%,+4.58%,T1
+Monaco v Auxerre,Monaco,Ligue 1,1.58,+1.28%,,+1.9%,+0.0%,,-4.24%,L,,+0.00%,,T4
+Nantes v Brest,Nantes,Ligue 1,2.48,+4.20%,,+3.3%,-1.6%,,-3.88%,TBD,,+0.40%,+0.00%,T5
+Metz v Paris FC,Paris FC,Ligue 1,2.16,+3.85%,,+3.8%,-3.6%,,-6.90%,TBD,,-6.49%,-7.69%,T5
+Strasbourg v Rennes,Rennes,Ligue 1,2.66,+1.14%,,+6.0%,+3.9%,,+6.40%,TBD,,+45.36%,+41.49%,T1
+Brighton v Chelsea,Brighton,Premier League,2.44,,,,,,,TBD,2.56,,,
+Bournemouth v Leeds,Bournemouth,Premier League,2.02,,,,,,,TBD,2.14,,,
+Sunderland v Forest,Forest,Premier League,2.52,,,,,,,TBD,2.88,,,
+Mallorca v Valencia,Mallorca,La Liga,2.56,,,,,,,TBD,2.70,,,
+Bilbao v Osasuna,Bilbao,La Liga,1.79,,,,,,,TBD,1.89,,,
+Girona v Betis,Girona,La Liga,2.69,,,,,,,TBD,2.78,,,
+Elche v Atletico,Elche,La Liga,2.57,,,,,,,TBD,2.76,,,
+Levante v Sevilla,Levante,La Liga,2.61,,,,,,,TBD,2.68,,,
+Rayo v Espanyol,Rayo,La Liga,2.20,,,,,,,TBD,2.22,,,
+Oviedo v Villarreal,Villarreal,La Liga,1.75,,,,,,,TBD,2.02,,,
+Man Utd v Brentford,Man Utd,Premier League,1.83,,,,,,,TBD,1.94,,,
