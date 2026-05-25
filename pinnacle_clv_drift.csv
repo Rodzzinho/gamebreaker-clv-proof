@@ -41,10 +41,10 @@ Monaco v Auxerre,Monaco,Ligue 1,1.58,+1.28%,,+1.9%,+0.0%,,-4.24%,L,,+0.00%,,T4
 Nantes v Brest,Nantes,Ligue 1,2.48,+4.20%,,+3.3%,-1.6%,,-3.88%,D,,+0.40%,+0.00%,T5
 Metz v Paris FC,Paris FC,Ligue 1,2.16,+3.85%,,+3.8%,-3.6%,,-6.90%,L,,-6.49%,-7.69%,T5
 Strasbourg v Rennes,Rennes,Ligue 1,2.66,+1.14%,,+6.0%,+3.9%,,+6.40%,W,,+45.36%,+41.49%,T1
-PSG v Lyon,PSG,Ligue 1,1.34,,,,,,,,L,,+0.00%,-1.47%
+PSG v Lyon,PSG,Ligue 1,1.34,,,,,,,L,,+0.00%,-1.47%
 Brighton v Chelsea,Brighton,Premier League,2.44,,,,,,,W,2.56,+4.72%,+6.67%,
 Bournemouth v Leeds,Bournemouth,Premier League,2.02,,,,,,,D,2.14,+9.19%,+5.26%,
-Sunderland v Forest,Forest,Premier League,2.52,,,,,,,TBD,2.88,,+0.37%,
+Sunderland v Forest,Forest,Premier League,2.52,,,,,,,W,2.88,2.73,+0.37%,
 Mallorca v Valencia,Mallorca,La Liga,2.56,,,,,,,D,2.70,-7.25%,-5.59%,
 Bilbao v Osasuna,Bilbao,La Liga,1.79,,,,,,,W,1.89,-3.76%,-2.58%,
 Girona v Betis,Girona,La Liga,2.69,,,,,,,L,2.78,+8.91%,+8.59%,
@@ -96,7 +96,6 @@ Espanyol v Real Madrid,Real Madrid,La Liga,1.640,,,,,,,W,1.78,1.80,1.80,-1.11%
 Getafe v Rayo Vallecano,Rayo Vallecano,La Liga,4.080,,,,,,,W,,4.38,-6.85%,
 Sevilla v Real Sociedad,Real Sociedad,La Liga,2.850,,,,,,,L,,3.17,-10.09%,
 PSG v Lorient,PSG,Ligue 1,1.221,,,,,,,TBD,,,,
-Nantes v Marseille,Marseille,Ligue 1,1.662,,,,,,,TBD,,,,
 Metz v Monaco,Monaco,Ligue 1,1.413,,,,,,,W,,1.35,+4.44%,
 Nice v Lens,Lens,Ligue 1,1.769,,,,,,,D,,1.74,+1.15%,
 Lille v Le Havre,Lille,Ligue 1,1.406,,,,,,,D,,1.37,+2.63%,
@@ -132,7 +131,6 @@ Burnley v Villa,Villa,Premier League,1.591,,,,,,,D,,1.520,+4.67%,
 Forest v Newcastle,Newcastle,Premier League,2.610,,,,,,,D,,2.170,+20.28%,
 Palace v Everton,Everton,Premier League,2.710,,,,,,,D,,2.660,+1.88%,
 West Ham v Arsenal,Arsenal,Premier League,1.649,,,,,,,TBD,,1.570,+5.03%,
-Spurs v Leeds,Leeds,Premier League,3.960,,,,,,,TBD,,,,
 Levante v Osasuna,Levante,La Liga,2.630,,,,,,,W,,2.550,+3.14%,
 Elche v Alaves,Alaves,La Liga,3.300,,,,,,,D,,3.450,-4.35%,
 Sevilla v Espanyol,Sevilla,La Liga,2.100,,,,,,,W,,2.010,+4.48%,
@@ -173,8 +171,6 @@ Sociedad v Valencia,Sociedad,La Liga,2.040,,,,,,,LOST,,-17.07%,,
 Sevilla v Real Madrid,Real Madrid,La Liga,2.210,,,,,,,WON,,+10.50%,,
 Villarreal v Sevilla,Villarreal,La Liga,2.070,,,,,,,L,,2.190,-5.48%,
 Osasuna v Atletico,Atletico,La Liga,2.840,,,,,,,TBD,,2.680,+5.97%,
-West Ham v Leeds,West Ham,Premier League,1.940,,,,,,,TBD,,,,BFE entry -- Pinnacle not available yet. Fair odds 1.75.
-Tottenham v Everton,Spurs,Premier League,1.920,,,,,,,TBD,,,,BFE entry -- Pinnacle not available yet. Fair odds 1.72.
 Girona v Elche,Elche,La Liga,4.340,,,,,,,D,,4.490,-3.34%,
 Celta v Sevilla,Sevilla,La Liga,4.930,,,,,,,L,,4.820,+2.28%,
 Valencia v Barcelona,Barcelona,La Liga,1.900,,,,,,,L,,1.960,-3.06%,
