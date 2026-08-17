@@ -1,18 +1,18 @@
 match,pick,league,entry,pin_48h,pin_24h,pin_1h,pin_close,pin_clv,result
 Brentford v Fulham,Brentford,Premier League,2.16,,,,,+6.93%,TBD
-Newcastle v Bournemouth,Bournemouth,Premier League,3.60,,,,,+15.38%,W
+Newcastle v Bournemouth,Bournemouth,Premier League,3.6,,,,,+15.38%,W
 Spurs v Brighton,Brighton,Premier League,2.56,,,,,+13.27%,L
-Chelsea v Man Utd,Man Utd,Premier League,3.20,,,,,-6.82%,W
+Chelsea v Man Utd,Man Utd,Premier League,3.2,,,,,-6.82%,W
 Villa v Sunderland,Villa,Premier League,1.69,,,,,-3.43%,W
 Forest v Burnley,Forest,Premier League,1.55,,,,,+3.33%,W
 Everton v Liverpool,Liverpool,Premier League,2.22,,,,,-5.53%,W
 City v Arsenal,City,Premier League,1.94,,,,,+3.74%,W
-Palace v West Ham,Palace,Premier League,2.30,,,,,-12.88%,TBD
+Palace v West Ham,Palace,Premier League,2.3,,,,,-12.88%,TBD
 Leeds v Wolves,Leeds,Premier League,1.61,,,,,-5.23%,W
 Lens v Toulouse,Lens,Ligue 1,1.59,,,,,+3.25%,W
 Lorient v Marseille,Marseille,Ligue 1,1.77,,,,,+6.63%,L
 Angers v Le Havre,Angers,Ligue 1,2.86,,,,,-17.00%,D
-Lille v Nice,Lille,Ligue 1,1.60,,,,,+5.37%,L
+Lille v Nice,Lille,Ligue 1,1.6,,,,,+5.37%,L
 Monaco v Auxerre,Monaco,Ligue 1,1.58,,,,,+0.00%,L
 Nantes v Brest,Nantes,Ligue 1,2.48,,,,,+0.40%,D
 Metz v Paris FC,Paris FC,Ligue 1,2.16,,,,,-6.49%,L
@@ -26,17 +26,17 @@ Bilbao v Osasuna,Bilbao,La Liga,1.79,,,,,-3.76%,W
 Girona v Betis,Girona,La Liga,2.69,,,,,+8.91%,L
 Elche v Atletico,Elche,La Liga,2.57,,,,,+5.76%,W
 Levante v Sevilla,Levante,La Liga,2.61,,,,,+4.82%,W
-Rayo v Espanyol,Rayo,La Liga,2.20,,,,,+1.38%,W
+Rayo v Espanyol,Rayo,La Liga,2.2,,,,,+1.38%,W
 Oviedo v Villarreal,Villarreal,La Liga,1.75,,,,1.93,-9.33%,D
 Man Utd v Brentford,Man Utd,Premier League,1.83,,,,2.01,-8.96%,W
 Real Sociedad v Getafe,Real Sociedad,La Liga,2.18,,,,2.32,-6.03%,L
 West Ham v Everton,West Ham,Premier League,2.44,,,,2.55,-4.31%,W
-Alaves v Mallorca,Alaves,La Liga,2.15,,,,2.10,+2.38%,W
+Alaves v Mallorca,Alaves,La Liga,2.15,,,,2.1,+2.38%,W
 Lyon v Auxerre,Lyon,Ligue 1,1.68,,,,1.66,+1.20%,W
 Fulham v Villa,Villa,Premier League,2.75,,,,2.81,-2.14%,L
 Wolves v Tottenham,Tottenham,Premier League,1.74,,,,1.64,+6.10%,W
-Liverpool v Crystal Palace,Palace,Premier League,6.64,,,,5.60,+18.57%,L
-Arsenal v Newcastle,Arsenal,Premier League,1.49,,,,1.40,+6.43%,TBD
+Liverpool v Crystal Palace,Palace,Premier League,6.64,,,,5.6,+18.57%,L
+Arsenal v Newcastle,Arsenal,Premier League,1.49,,,,1.4,+6.43%,TBD
 Valencia v Girona,Valencia,La Liga,1.925,,,,2.37,-18.78%,TBD
 Toulouse v Monaco,Monaco,Ligue 1,2.08,,,,1.71,+21.64%,D
 Atletico v Athletic Bilbao,Atletico,La Liga,2.15,,,,1.93,+11.40%,W
@@ -50,64 +50,64 @@ Rennes v Nantes,Rennes,Ligue 1,1.416,,,,1.48,-4.32%,W
 Marseille v Nice,Marseille,Ligue 1,1.454,,,,1.74,-16.44%,L
 Rayo v Real Sociedad,Real Sociedad,La Liga,3.19,,,,2.69,+18.59%,TBD
 Espanyol v Levante,Levante,La Liga,4.12,,,,3.69,+11.65%,L
-Arsenal v Fulham,Fulham,Premier League,7.850,,,,7.75,+1.29%,L
-Brentford v West Ham,Brentford,Premier League,1.990,,,,1.89,+5.29%,W
-Wolves v Sunderland,Sunderland,Premier League,2.340,,,,2.06,+13.59%,D
-Newcastle v Brighton,Brighton,Premier League,2.660,,,,2.51,+5.98%,L
-Bournemouth v Crystal Palace,Bournemouth,Premier League,1.650,,,,1.58,+4.43%,W
-Man Utd v Liverpool,Man Utd,Premier League,2.410,,,,2.42,-0.41%,W
-Aston Villa v Tottenham,Aston Villa,Premier League,2.200,,,,2.29,-3.93%,L
+Arsenal v Fulham,Fulham,Premier League,7.85,,,,7.75,+1.29%,L
+Brentford v West Ham,Brentford,Premier League,1.99,,,,1.89,+5.29%,W
+Wolves v Sunderland,Sunderland,Premier League,2.34,,,,2.06,+13.59%,D
+Newcastle v Brighton,Brighton,Premier League,2.66,,,,2.51,+5.98%,L
+Bournemouth v Crystal Palace,Bournemouth,Premier League,1.65,,,,1.58,+4.43%,W
+Man Utd v Liverpool,Man Utd,Premier League,2.41,,,,2.42,-0.41%,W
+Aston Villa v Tottenham,Aston Villa,Premier League,2.2,,,,2.29,-3.93%,L
 Chelsea v Nottm Forest,Chelsea,Premier League,1.714,,,,1.43,+19.86%,TBD
 Everton v Man City,Man City,Premier League,1.458,,,,1.45,+0.55%,D
-Girona v Mallorca,Mallorca,La Liga,3.860,,,,4.18,-7.66%,W
+Girona v Mallorca,Mallorca,La Liga,3.86,,,,4.18,-7.66%,W
 Villarreal v Levante,Villarreal,La Liga,1.709,,,,1.93,-11.45%,W
 Valencia v Atletico,Valencia,La Liga,1.961,,,,1.71,+14.68%,TBD
-Alaves v Athletic Bilbao,Alaves,La Liga,2.710,,,,2.87,-5.57%,L
-Celta v Elche,Elche,La Liga,4.460,,,,4.78,-6.69%,L
+Alaves v Athletic Bilbao,Alaves,La Liga,2.71,,,,2.87,-5.57%,L
+Celta v Elche,Elche,La Liga,4.46,,,,4.78,-6.69%,L
 Osasuna v Barcelona,Barcelona,La Liga,1.833,,,,1.68,+9.11%,W
-Real Betis v Real Oviedo,Real Oviedo,La Liga,5.830,,,,6.17,-5.51%,TBD
-Espanyol v Real Madrid,Real Madrid,La Liga,1.640,,,,1.80,-8.89%,W
-Getafe v Rayo Vallecano,Rayo Vallecano,La Liga,4.080,,,,4.38,-6.85%,W
-Sevilla v Real Sociedad,Real Sociedad,La Liga,2.850,,,,3.17,-10.09%,L
+Real Betis v Real Oviedo,Real Oviedo,La Liga,5.83,,,,6.17,-5.51%,TBD
+Espanyol v Real Madrid,Real Madrid,La Liga,1.64,,,,1.8,-8.89%,W
+Getafe v Rayo Vallecano,Rayo Vallecano,La Liga,4.08,,,,4.38,-6.85%,W
+Sevilla v Real Sociedad,Real Sociedad,La Liga,2.85,,,,3.17,-10.09%,L
 PSG v Lorient,PSG,Ligue 1,1.221,,,,,,TBD
 Metz v Monaco,Monaco,Ligue 1,1.413,,,,1.35,+4.67%,W
 Nice v Lens,Lens,Ligue 1,1.769,,,,1.74,+1.67%,D
 Lille v Le Havre,Lille,Ligue 1,1.406,,,,1.37,+2.63%,D
-Strasbourg v Toulouse,Toulouse,Ligue 1,2.830,,,,2.35,+20.43%,W
-Auxerre v Angers,Auxerre,Ligue 1,1.740,,,,1.81,-3.87%,W
-Paris FC v Brest,Paris FC,Ligue 1,2.040,,,,1.91,+6.81%,W
-Leeds v Burnley,Leeds,Premier League,1.440,,,,1.42,+1.41%,W
-Lyon v Rennes,Lyon,Ligue 1,2.220,,,,2.09,+6.22%,W
+Strasbourg v Toulouse,Toulouse,Ligue 1,2.83,,,,2.35,+20.43%,W
+Auxerre v Angers,Auxerre,Ligue 1,1.74,,,,1.81,-3.87%,W
+Paris FC v Brest,Paris FC,Ligue 1,2.04,,,,1.91,+6.81%,W
+Leeds v Burnley,Leeds,Premier League,1.44,,,,1.42,+1.41%,W
+Lyon v Rennes,Lyon,Ligue 1,2.22,,,,2.09,+6.22%,W
 Brighton v Man Utd,Man Utd,Premier League,3.51,3.73,3.89,3.63,3.49,+0.57%,W
-Atletico v Villarreal,Atletico,La Liga,2.74,2.80,2.79,2.58,2.58,+6.20%,L
-Lens v Nantes,Lens,Ligue 1,1.390,,,,1.470,-5.44%,W
-Rennes v Paris FC,Rennes,Ligue 1,1.476,,,,1.570,-5.99%,W
-Monaco v Lille,Monaco,Ligue 1,2.300,,,,2.700,-14.81%,L
-Le Havre v Marseille,Le Havre,Ligue 1,3.540,,,,3.880,-8.76%,L
-PSG v Brest,PSG,Ligue 1,1.142,,,,1.190,-4.03%,W
-Angers v Strasbourg,Angers,Ligue 1,3.310,,,,2.770,+19.49%,D
-Auxerre v Nice,Auxerre,Ligue 1,2.420,,,,2.350,+2.98%,W
-Metz v Lorient,Lorient,Ligue 1,2.130,,,,2.390,-10.88%,L
-Toulouse v Lyon,Lyon,Ligue 1,1.750,,,,1.900,-7.89%,L
-Brighton v Wolves,Brighton,Premier League,1.280,,,,1.270,+0.79%,W
-Liverpool v Chelsea,Liverpool,Premier League,1.869,,,,2.060,-9.27%,D
-Fulham v Bournemouth,Bournemouth,Premier League,2.450,,,,2.500,-2.00%,W
-Sunderland v Man Utd,Man Utd,Premier League,1.930,,,,2.100,-8.10%,D
-Man City v Brentford,Man City,Premier League,1.346,,,,1.350,-0.30%,W
-Burnley v Villa,Villa,Premier League,1.591,,,,1.520,+4.67%,D
-Forest v Newcastle,Newcastle,Premier League,2.610,,,,2.170,+20.28%,D
-Palace v Everton,Everton,Premier League,2.710,,,,2.660,+1.88%,D
-West Ham v Arsenal,Arsenal,Premier League,1.649,,,,1.570,+5.03%,TBD
-Levante v Osasuna,Levante,La Liga,2.630,,,,2.550,+3.14%,W
-Elche v Alaves,Alaves,La Liga,3.300,,,,3.450,-4.35%,D
-Sevilla v Espanyol,Sevilla,La Liga,2.100,,,,2.010,+4.48%,W
-Atletico v Celta,Atletico,La Liga,2.120,,,,1.860,+13.98%,L
-Sociedad v Betis,Sociedad,La Liga,2.480,,,,2.530,-1.98%,D
-Mallorca v Villarreal,Mallorca,La Liga,2.380,,,,2.530,-5.93%,D
-Bilbao v Valencia,Bilbao,La Liga,1.751,,,,1.670,+4.85%,L
-Oviedo v Getafe,Oviedo,La Liga,3.160,,,,2.790,+13.26%,D
-Barca v Real Madrid,Barca,La Liga,1.840,,,,1.660,+10.84%,W
-Rayo v Girona,Girona,La Liga,3.040,,,,3.430,-11.37%,D
+Atletico v Villarreal,Atletico,La Liga,2.74,2.8,2.79,2.58,2.58,+6.20%,L
+Lens v Nantes,Lens,Ligue 1,1.39,,,,1.47,-5.44%,W
+Rennes v Paris FC,Rennes,Ligue 1,1.476,,,,1.57,-5.99%,W
+Monaco v Lille,Monaco,Ligue 1,2.3,,,,2.7,-14.81%,L
+Le Havre v Marseille,Le Havre,Ligue 1,3.54,,,,3.88,-8.76%,L
+PSG v Brest,PSG,Ligue 1,1.142,,,,1.19,-4.03%,W
+Angers v Strasbourg,Angers,Ligue 1,3.31,,,,2.77,+19.49%,D
+Auxerre v Nice,Auxerre,Ligue 1,2.42,,,,2.35,+2.98%,W
+Metz v Lorient,Lorient,Ligue 1,2.13,,,,2.39,-10.88%,L
+Toulouse v Lyon,Lyon,Ligue 1,1.75,,,,1.9,-7.89%,L
+Brighton v Wolves,Brighton,Premier League,1.28,,,,1.27,+0.79%,W
+Liverpool v Chelsea,Liverpool,Premier League,1.869,,,,2.06,-9.27%,D
+Fulham v Bournemouth,Bournemouth,Premier League,2.45,,,,2.5,-2.00%,W
+Sunderland v Man Utd,Man Utd,Premier League,1.93,,,,2.1,-8.10%,D
+Man City v Brentford,Man City,Premier League,1.346,,,,1.35,-0.30%,W
+Burnley v Villa,Villa,Premier League,1.591,,,,1.52,+4.67%,D
+Forest v Newcastle,Newcastle,Premier League,2.61,,,,2.17,+20.28%,D
+Palace v Everton,Everton,Premier League,2.71,,,,2.66,+1.88%,D
+West Ham v Arsenal,Arsenal,Premier League,1.649,,,,1.57,+5.03%,TBD
+Levante v Osasuna,Levante,La Liga,2.63,,,,2.55,+3.14%,W
+Elche v Alaves,Alaves,La Liga,3.3,,,,3.45,-4.35%,D
+Sevilla v Espanyol,Sevilla,La Liga,2.1,,,,2.01,+4.48%,W
+Atletico v Celta,Atletico,La Liga,2.12,,,,1.86,+13.98%,L
+Sociedad v Betis,Sociedad,La Liga,2.48,,,,2.53,-1.98%,D
+Mallorca v Villarreal,Mallorca,La Liga,2.38,,,,2.53,-5.93%,D
+Bilbao v Valencia,Bilbao,La Liga,1.751,,,,1.67,+4.85%,L
+Oviedo v Getafe,Oviedo,La Liga,3.16,,,,2.79,+13.26%,D
+Barca v Real Madrid,Barca,La Liga,1.84,,,,1.66,+10.84%,W
+Rayo v Girona,Girona,La Liga,3.04,,,,3.43,-11.37%,D
 Osasuna v Atletico Madrid,Atletico,La Liga,2.84,,,,2.68,+5.97%,L
 Alaves v Barcelona,Barcelona,La Liga,2.19,,,,,-2.74%,L
 Espanyol v Athletic Bilbao,Bilbao,La Liga,2.81,,,,2.98,-5.71%,L
@@ -156,9 +156,9 @@ Tottenham v Everton,Everton,Premier League,1.92,1.87,1.92,1.97,1.96,-2.04%,W
 Liverpool v Brentford,Brentford,Premier League,4.11,3.9,3.86,4.04,4.25,-3.29%,D
 Burnley v Wolves,Burnley,Premier League,2.47,2.36,2.36,2.47,2.43,+1.65%,D
 Morocco v Brazil,Morocco,World Cup,6.07,,,,5.7,+6.49%,TBD
-Cape Verde v Spain,Cape Verde,World Cup,28.85,,,,25.00,+15.40%,TBD
-Saudi Arabia v Uruguay,Saudi Arabia,World Cup,7.29,,,,8.00,-8.88%,TBD
-Qatar v Switzerland,Switzerland,World Cup,1.23,1.23,1.22,1.21,1.20,+2.50%,TBD
+Cape Verde v Spain,Cape Verde,World Cup,28.85,,,,25.0,+15.40%,TBD
+Saudi Arabia v Uruguay,Saudi Arabia,World Cup,7.29,,,,8.0,-8.88%,TBD
+Qatar v Switzerland,Switzerland,World Cup,1.23,1.23,1.22,1.21,1.2,+2.50%,TBD
 Haiti v Scotland,Scotland,World Cup,1.5,1.58,1.57,1.55,1.56,-3.85%,TBD
 Australia v Turkey,Turkey,World Cup,1.72,1.64,1.74,1.74,1.72,+0.03%,TBD
 Netherlands v Japan,Netherlands,World Cup,2.03,2.01,2.01,2.12,2.04,-0.49%,TBD
@@ -167,23 +167,23 @@ Sweden v Tunisia,Sweden,World Cup,1.92,1.89,1.92,1.96,1.86,+3.23%,TBD
 Belgium v Egypt,Belgium,World Cup,1.67,1.61,1.62,1.57,1.53,+9.15%,TBD
 England v Croatia,England,World Cup,1.72,1.73,1.74,1.68,1.66,+3.59%,TBD
 Ghana v Panama,Panama,World Cup,3.43,3.4,3.46,3.34,3.32,+3.31%,TBD
-Uzbekistan v Colombia,Uzbekistan,World Cup,9.19,9.57,10,10,10.00,-8.10%,TBD
-Czech v South Africa,South Africa,World Cup,4.67,4.61,4.75,4.6,4.60,+1.52%,TBD
+Uzbekistan v Colombia,Uzbekistan,World Cup,9.19,9.57,10.0,10.0,10.0,-8.10%,TBD
+Czech v South Africa,South Africa,World Cup,4.67,4.61,4.75,4.6,4.6,+1.52%,TBD
 Switzerland v Bosnia,Switzerland,World Cup,1.54,1.54,1.53,1.58,1.51,+1.91%,TBD
 Canada v Qatar,Canada,World Cup,1.27,1.29,1.31,1.3,1.27,+0.00%,TBD
 Mexico v South Korea,Korea,World Cup,4.04,4.11,4.08,4.2,4.15,-2.65%,TBD
 USA v Australia,Australia,World Cup,5.43,5.24,5.25,5.4,5.53,-1.80%,TBD
 Scotland v Morocco,Morocco,World Cup,1.95,1.74,1.75,1.66,1.68,+16.07%,TBD
-Brazil v Haiti,Haiti,World Cup,22.15,21.89,20.13,20,19.00,+16.58%,TBD
-Turkey v Paraguay,Turkey,World Cup,2.21,2.03,2.04,2.04,2.10,+5.24%,TBD
+Brazil v Haiti,Haiti,World Cup,22.15,21.89,20.13,20.0,19.0,+16.58%,TBD
+Turkey v Paraguay,Turkey,World Cup,2.21,2.03,2.04,2.04,2.1,+5.24%,TBD
 Netherlands v Sweden,Sweden,World Cup,4.8,4.79,5.03,4.9,4.91,-2.24%,TBD
-Colombia v DR Congo,DR Congo,World Cup,6.96,6.92,6.41,7.5,7.50,-7.20%,TBD
-Switzerland v Canada,Switzerland,World Cup,2.5,2.52,2.45,2.56,2.60,-3.85%,TBD
+Colombia v DR Congo,DR Congo,World Cup,6.96,6.92,6.41,7.5,7.5,-7.20%,TBD
+Switzerland v Canada,Switzerland,World Cup,2.5,2.52,2.45,2.56,2.6,-3.85%,TBD
 South Africa v Korea,South Korea,World Cup,1.66,1.66,1.71,1.71,1.68,-1.19%,TBD
-Curacao v Ivory Coast,Curacao,World Cup,17.2,16.59,16,15,15.00,+14.67%,TBD
-Ecuador v Germany,Ecuador,World Cup,4.39,3.76,3.8,4.75,4.50,-2.44%,TBD
+Curacao v Ivory Coast,Curacao,World Cup,17.2,16.59,16.0,15.0,15.0,+14.67%,TBD
+Ecuador v Germany,Ecuador,World Cup,4.39,3.76,3.8,4.75,4.5,-2.44%,TBD
 Japan v Sweden,Japan,World Cup,2.12,1.87,1.87,2.06,2.06,+2.91%,TBD
-Turkey v USA,USA,World Cup,2.39,1.94,1.94,1.8,1.80,+32.80%,L
+Turkey v USA,USA,World Cup,2.39,1.94,1.94,1.8,1.8,+32.80%,L
 Cape Verde v Saudi Arabia,Cape Verde,World Cup,2.37,2.51,2.75,2.77,2.58,-8.14%,TBD
 Egypt v Iran,Iran,World Cup,3.89,3.82,3.99,3.51,3.42,+13.74%,TBD
 Croatia v Ghana,Ghana,World Cup,5.87,5.8,6.02,5.72,5.73,+2.44%,TBD
@@ -191,7 +191,7 @@ Colombia v Portugal,Portugal,World Cup,2.02,1.88,1.9,1.88,1.83,+10.38%,TBD
 DR Congo v Uzbekistan,DR Congo,World Cup,3.09,1.8,1.72,1.69,1.68,+83.93%,W
 Algeria v Austria,Algeria,World Cup,3.72,3.92,4.07,3.47,3.67,+1.36%,TBD
 South Africa v Canada,Canada,World Cup,1.72,1.72,1.73,1.81,1.87,-8.02%,TBD
-Brazil v Japan,Japan,World Cup,5.11,5.27,5.16,5.12,5.30,-3.58%,TBD
+Brazil v Japan,Japan,World Cup,5.11,5.27,5.16,5.12,5.3,-3.58%,TBD
 Germany v Paraguay,Germany,World Cup,1.42,1.37,1.33,1.33,1.34,+5.97%,TBD
 Netherlands v Morocco,Morocco,World Cup,3.69,3.91,3.55,3.39,3.37,+9.50%,TBD
 Norway v Ivory Coast,Ivory Coast,World Cup,4.12,3.71,3.48,3.61,3.67,+12.26%,TBD
@@ -199,10 +199,10 @@ Mexico v Ecuador,Ecuador,World Cup,3.93,3.81,4.12,4.14,4.11,-4.38%,TBD
 Belgium v Senegal,Senegal,World Cup,4.27,3.51,3.55,3.86,3.84,+11.20%,TBD
 Mexico v England,England,World Cup,2.34,2.43,2.43,2.56,2.55,-8.24%,W
 USA v Belgium,Belgium,World Cup,2.82,2.65,,,2.66,+6.02%,EXITED
-Spain v Portugal,Portugal,World Cup,4.17,3.93,3.99,4.15,4.00,+4.25%,L
-Switzerland v Colombia,Switzerland,World Cup,3.63,3.53,3.65,3.75,3.70,-1.90%,TBD
-France v Morocco,Morocco,World Cup,6.58,6.58,6.64,6.8,6.90,-4.64%,TBD
-Spain v Belgium,Belgium,World Cup,5.7,5.69,5.48,5.9,5.70,+0.00%,TBD
+Spain v Portugal,Portugal,World Cup,4.17,3.93,3.99,4.15,4.0,+4.25%,L
+Switzerland v Colombia,Switzerland,World Cup,3.63,3.53,3.65,3.75,3.7,-1.90%,TBD
+France v Morocco,Morocco,World Cup,6.58,6.58,6.64,6.8,6.9,-4.64%,TBD
+Spain v Belgium,Belgium,World Cup,5.7,5.69,5.48,5.9,5.7,+0.00%,TBD
 Norway v England,Norway,World Cup,4.17,4.32,4.2,,4.24,-1.65%,L
 Argentina v Switzerland,Switzerland,World Cup,5.52,5.87,5.89,,6.19,-10.86%,L
 France v Spain,France,World Cup,2.44,2.36,2.43,2.62,2.65,-7.92%,L
@@ -211,10 +211,11 @@ Spain v Argentina,Argentina,World Cup,3.91,3.67,3.71,3.79,3.78,+3.44%,L
 France v England,France,World Cup,2.01,1.99,1.91,1.87,1.74,+15.52%,L
 Preston v Bolton,Preston,Championship,3.28,,,,3.07,+6.84%,L
 Bristol City v Millwall,Millwall,Championship,2.72,,,,2.72,+0.00%,W
-Charlton Athletic v Derby County,Derby County,Championship,2.70,,,,2.81,-3.91%,L
-Sevilla v Rayo Vallecano,Rayo Vallecano,La Liga,3.31,,,,3.10,+6.77%,L
+Charlton Athletic v Derby County,Derby County,Championship,2.7,,,,2.81,-3.91%,L
+Sevilla v Rayo Vallecano,Rayo Vallecano,La Liga,3.31,,,,3.1,+6.77%,L
 Portsmouth v QPR,QPR,Championship,3.07,,,,3.22,-4.66%,W
 Watford v Southampton,Southampton,Championship,2.31,,,,2.02,+14.36%,TBD
 Racing Santander v Villarreal,Villarreal,La Liga,2.35,,,,1.96,+19.90%,D
-Burnley v West Ham,West Ham,Championship,2.40,,,,2.34,+2.56%,D
+Burnley v West Ham,West Ham,Championship,2.4,,,,2.34,+2.56%,D
 Stoke City v Swansea City,Swansea City,Championship,3.01,,,2.96,,+1.69%,Exited early -- Burgess (CB) injury
+Cardiff City v Wrexham,Wrexham,Championship,2.94,,,2.7,2.81,4.63,
