@@ -56,3 +56,4 @@ date,match,team,stake,odds,potential_return,bet_id,status,result,profit,closing_
 2026-05-20 19:03,West Ham v Leeds,West Ham,30,1.8799999999999997,56.4,429996675174,MATCHED,PENDING,0
 2026-05-20 19:03,Brighton v Man Utd,Man Utd,30,3.6,108.0,429996753048,MATCHED,PENDING,0
 2026-05-29 23:39,Paris St-G v Arsenal,Paris St-G,30,2.5,75.0,430931994780,MATCHED,PENDING,0
+2026-08-18 20:10,Newcastle v Liverpool,Liverpool,25,1.9519119999999999,48.8,438947104996,MATCHED,LOST,-25,,,,,,2-2 FT
