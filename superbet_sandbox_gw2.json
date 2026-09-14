@@ -1,0 +1,155 @@
+[
+  {
+    "fixture": "Bournemouth v Everton",
+    "selection": "Bournemouth",
+    "league": "Premier League",
+    "market_price": 2.11,
+    "gb_raw": null,
+    "gb_calibrated": 1.98,
+    "divergence_pct": 6.6
+  },
+  {
+    "fixture": "Coventry v Hull",
+    "selection": "Coventry",
+    "league": "Premier League",
+    "market_price": 2.0,
+    "gb_raw": null,
+    "gb_calibrated": 1.92,
+    "divergence_pct": 4.2
+  },
+  {
+    "fixture": "Spurs v Newcastle",
+    "selection": "Newcastle",
+    "league": "Premier League",
+    "market_price": 3.34,
+    "gb_raw": null,
+    "gb_calibrated": 3.0,
+    "divergence_pct": 11.3
+  },
+  {
+    "fixture": "Chelsea v Brighton",
+    "selection": "Brighton",
+    "league": "Premier League",
+    "market_price": 3.61,
+    "gb_raw": null,
+    "gb_calibrated": 3.0,
+    "divergence_pct": 20.3
+  },
+  {
+    "fixture": "Sunderland v Fulham",
+    "selection": "Sunderland",
+    "league": "Premier League",
+    "market_price": 2.62,
+    "gb_raw": null,
+    "gb_calibrated": 2.38,
+    "divergence_pct": 10.1
+  },
+  {
+    "fixture": "Leeds v Brentford",
+    "selection": "Brentford",
+    "league": "Premier League",
+    "market_price": 2.96,
+    "gb_raw": null,
+    "gb_calibrated": 2.02,
+    "divergence_pct": 46.5
+  },
+  {
+    "fixture": "Strasbourg v RC Lens",
+    "selection": "RC Lens",
+    "league": "Ligue 1",
+    "market_price": 2.18,
+    "gb_raw": null,
+    "gb_calibrated": 1.8,
+    "divergence_pct": 21.1
+  },
+  {
+    "fixture": "AJ Auxerre v Angers SCO",
+    "selection": "Angers SCO",
+    "league": "Ligue 1",
+    "market_price": 4.38,
+    "gb_raw": null,
+    "gb_calibrated": 4.0,
+    "divergence_pct": 9.5
+  },
+  {
+    "fixture": "Brest v Toulouse FC",
+    "selection": "Toulouse FC",
+    "league": "Ligue 1",
+    "market_price": 2.75,
+    "gb_raw": null,
+    "gb_calibrated": 2.5,
+    "divergence_pct": 10.0
+  },
+  {
+    "fixture": "Paris FC v OGC Nice",
+    "selection": "Paris FC",
+    "league": "Ligue 1",
+    "market_price": 2.15,
+    "gb_raw": null,
+    "gb_calibrated": 2.07,
+    "divergence_pct": 3.9
+  },
+  {
+    "fixture": "AS Monaco v OM",
+    "selection": "OM",
+    "league": "Ligue 1",
+    "market_price": 2.54,
+    "gb_raw": null,
+    "gb_calibrated": 2.31,
+    "divergence_pct": 10.0
+  },
+  {
+    "fixture": "Betis v Real Sociedad",
+    "selection": "Real Sociedad",
+    "league": "La Liga",
+    "market_price": 3.7,
+    "gb_raw": null,
+    "gb_calibrated": 3.0,
+    "divergence_pct": 23.3
+  },
+  {
+    "fixture": "Athletic v Sevilla",
+    "selection": "Sevilla",
+    "league": "La Liga",
+    "market_price": 5.07,
+    "gb_raw": null,
+    "gb_calibrated": 4.77,
+    "divergence_pct": 6.3
+  },
+  {
+    "fixture": "Valencia v Celta",
+    "selection": "Celta",
+    "league": "La Liga",
+    "market_price": 3.53,
+    "gb_raw": null,
+    "gb_calibrated": 2.73,
+    "divergence_pct": 29.3
+  },
+  {
+    "fixture": "Atletico Madrid v Villarreal",
+    "selection": "Villarreal",
+    "league": "La Liga",
+    "market_price": 4.06,
+    "gb_raw": null,
+    "gb_calibrated": 3.07,
+    "divergence_pct": 32.2
+  },
+  {
+    "fixture": "Getafe v Racing Santander",
+    "selection": "Racing Santander",
+    "league": "La Liga",
+    "market_price": 5.05,
+    "gb_raw": null,
+    "gb_calibrated": 4.46,
+    "divergence_pct": 13.2
+  },
+  {
+    "fixture": "Valencia v Betis",
+    "selection": "Betis",
+    "league": "La Liga",
+    "market_price": 2.7,
+    "gb_raw": null,
+    "gb_calibrated": 2.0,
+    "divergence_pct": 35.0
+  }
+]
