@@ -1,0 +1,1319 @@
+{
+  "generated_at": "2026-10-01T17:03:54+00:00",
+  "provider": "GAMEBREAKER",
+  "schema_version": "2.0-full-grid",
+  "fixture_count": 69,
+  "fixtures": [
+    {
+      "date": "2026-10-11",
+      "league": "Premier League",
+      "match": "Liverpool v Manchester City",
+      "home_team": "FC Liverpool",
+      "away_team": "Manchester City",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.02
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.57,
+        "calibrated": 2.33
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Sunderland v Brighton",
+      "home_team": "AFC Sunderland",
+      "away_team": "Brighton & Hove Albion",
+      "home": {
+        "raw": 4.7,
+        "calibrated": 2.87
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.82,
+        "calibrated": 2.42
+      },
+      "confidence_score": 0.98
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Ipswich v Fulham",
+      "home_team": "Ipswich Town",
+      "away_team": "FC Fulham",
+      "home": {
+        "raw": 3.03,
+        "calibrated": 2.7
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 2.32,
+        "calibrated": 2.56
+      },
+      "confidence_score": 0.99
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Aston Villa v Brentford",
+      "home_team": "Aston Villa",
+      "away_team": "FC Brentford",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 2.97
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.64,
+        "calibrated": 2.35
+      },
+      "confidence_score": 0.92
+    },
+    {
+      "date": "2026-10-11",
+      "league": "Premier League",
+      "match": "Crystal Palace v Nottingham Forest",
+      "home_team": "Crystal Palace",
+      "away_team": "Nottingham Forest",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.18
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.38,
+        "calibrated": 2.24
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Arsenal v Leeds",
+      "home_team": "FC Arsenal",
+      "away_team": "Leeds United",
+      "home": {
+        "raw": 1.8,
+        "calibrated": 2.41
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 4.88,
+        "calibrated": 2.88
+      },
+      "confidence_score": 0.51
+    },
+    {
+      "date": "2026-10-09",
+      "league": "Ligue 1",
+      "match": "Lens v Lyon",
+      "home_team": "RC Lens",
+      "away_team": "Olympique Lyon",
+      "home": {
+        "raw": 2.03,
+        "calibrated": 2.51
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 3.82,
+        "calibrated": 2.82
+      },
+      "confidence_score": 0.93
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Ligue 1",
+      "match": "Lorient v Paris FC",
+      "home_team": "FC Lorient",
+      "away_team": "Paris FC",
+      "home": {
+        "raw": 5.89,
+        "calibrated": 2.97
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 1.71,
+        "calibrated": 2.4
+      },
+      "confidence_score": 0.97
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Ligue 1",
+      "match": "Brest v Angers",
+      "home_team": "Stade Brest 29",
+      "away_team": "Angers SCO",
+      "home": {
+        "raw": 2.09,
+        "calibrated": 2.52
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 3.62,
+        "calibrated": 2.8
+      },
+      "confidence_score": 0.77
+    },
+    {
+      "date": "2026-10-11",
+      "league": "Ligue 1",
+      "match": "Nice v Stra\u00dfburg",
+      "home_team": "OGC Nizza",
+      "away_team": "RC Stra\u00dfburg Alsace",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.19
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 1.41,
+        "calibrated": 2.27
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-11",
+      "league": "Ligue 1",
+      "match": "Rennes v Auxerre",
+      "home_team": "FC Stade Rennes",
+      "away_team": "AJ Auxerre",
+      "home": {
+        "raw": 2.24,
+        "calibrated": 2.56
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 3.25,
+        "calibrated": 2.75
+      },
+      "confidence_score": 0.54
+    },
+    {
+      "date": "2026-10-12",
+      "league": "La Liga",
+      "match": "Levante v Sevilla",
+      "home_team": "Levante UD",
+      "away_team": "FC Sevilla",
+      "home": {
+        "raw": 2.49,
+        "calibrated": 2.66
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.97,
+        "calibrated": 2.76
+      },
+      "confidence_score": 0.99
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Racing Santander v Valencia",
+      "home_team": "Racing Santander",
+      "away_team": "FC Valencia",
+      "home": {
+        "raw": 1.79,
+        "calibrated": 2.47
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 5.55,
+        "calibrated": 3.01
+      },
+      "confidence_score": 0.95
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Betis v Osasuna",
+      "home_team": "Real Betis",
+      "away_team": "CA Osasuna",
+      "home": {
+        "raw": 1.8,
+        "calibrated": 2.47
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 5.45,
+        "calibrated": 3.0
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Elche v Celta",
+      "home_team": "FC Elche",
+      "away_team": "RC Celta",
+      "home": {
+        "raw": 2.49,
+        "calibrated": 2.66
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.97,
+        "calibrated": 2.76
+      },
+      "confidence_score": 0.97
+    },
+    {
+      "date": "2026-10-10",
+      "league": "La Liga",
+      "match": "Real Madrid v Villarreal",
+      "home_team": "Real Madrid",
+      "away_team": "Villarreal CF",
+      "home": {
+        "raw": 2.14,
+        "calibrated": 2.58
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 3.7,
+        "calibrated": 2.86
+      },
+      "confidence_score": 0.5
+    },
+    {
+      "date": "2026-10-10",
+      "league": "La Liga",
+      "match": "Alaves v Atletico",
+      "home_team": "Deportivo Alav\u00e9s",
+      "away_team": "Atl\u00e9tico de Madrid",
+      "home": {
+        "raw": 4.4,
+        "calibrated": 2.93
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 1.96,
+        "calibrated": 2.52
+      },
+      "confidence_score": 0.77
+    },
+    {
+      "date": "2026-10-10",
+      "league": "La Liga",
+      "match": "Rayo v Bilbao",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Athletic Bilbao",
+      "home": {
+        "raw": 3.16,
+        "calibrated": 2.79
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.37,
+        "calibrated": 2.64
+      },
+      "confidence_score": 0.95
+    },
+    {
+      "date": "2026-10-09",
+      "league": "La Liga",
+      "match": "Malaga v Espanyol",
+      "home_team": "FC M\u00e1laga",
+      "away_team": "Espanyol Barcelona",
+      "home": {
+        "raw": 3.44,
+        "calibrated": 2.83
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.24,
+        "calibrated": 2.6
+      },
+      "confidence_score": 0.98
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Real Sociedad v Deportivo La Coruna",
+      "home_team": "Real Sociedad San Sebasti\u00e1n",
+      "away_team": "Deportivo La Coruna",
+      "home": {
+        "raw": 2.12,
+        "calibrated": 2.57
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 3.74,
+        "calibrated": 2.86
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Chelsea v Bournemouth",
+      "home_team": "FC Chelsea",
+      "away_team": "AFC Bournemouth",
+      "home": {
+        "raw": 2.02,
+        "calibrated": 2.48
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 3.76,
+        "calibrated": 2.79
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-16",
+      "league": "Ligue 1",
+      "match": "Le Mans v Toulouse",
+      "home_team": "FC Le Mans",
+      "away_team": "FC Toulouse",
+      "home": {
+        "raw": 2.46,
+        "calibrated": 2.61
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 2.87,
+        "calibrated": 2.69
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Ligue 1",
+      "match": "Stra\u00dfburg v Paris Saint-Germain",
+      "home_team": "RC Stra\u00dfburg Alsace",
+      "away_team": "FC Paris Saint-Germain",
+      "home": {
+        "raw": 5.84,
+        "calibrated": 2.96
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 1.72,
+        "calibrated": 2.4
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Ligue 1",
+      "match": "Lille v Brest",
+      "home_team": "LOSC Lille",
+      "away_team": "Stade Brest 29",
+      "home": {
+        "raw": 1.57,
+        "calibrated": 2.34
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.05
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Ligue 1",
+      "match": "Troyes v Lens",
+      "home_team": "ESTAC Troyes",
+      "away_team": "RC Lens",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.12
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 1.49,
+        "calibrated": 2.31
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Ligue 1",
+      "match": "Angers v Marseille",
+      "home_team": "Angers SCO",
+      "away_team": "Olympique Marseille",
+      "home": {
+        "raw": 2.76,
+        "calibrated": 2.67
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 2.56,
+        "calibrated": 2.63
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Ligue 1",
+      "match": "Lorient v Monaco",
+      "home_team": "FC Lorient",
+      "away_team": "AS Monaco",
+      "home": {
+        "raw": 5.59,
+        "calibrated": 2.95
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 1.74,
+        "calibrated": 2.41
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Ligue 1",
+      "match": "Paris FC v Rennes",
+      "home_team": "Paris FC",
+      "away_team": "FC Stade Rennes",
+      "home": {
+        "raw": 2.76,
+        "calibrated": 2.67
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 2.55,
+        "calibrated": 2.63
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Ligue 1",
+      "match": "Le Havre v Auxerre",
+      "home_team": "Le Havre AC",
+      "away_team": "AJ Auxerre",
+      "home": {
+        "raw": 2.49,
+        "calibrated": 2.62
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 2.84,
+        "calibrated": 2.69
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Ligue 1",
+      "match": "Lyon v Nice",
+      "home_team": "Olympique Lyon",
+      "away_team": "OGC Nizza",
+      "home": {
+        "raw": 1.4,
+        "calibrated": 2.27
+      },
+      "draw": {
+        "fair_odds": 4.07
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.2
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-12",
+      "league": "Premier League",
+      "match": "Coventry v Newcastle",
+      "home_team": "Coventry City",
+      "away_team": "Newcastle United",
+      "home": {
+        "raw": 1.75,
+        "calibrated": 2.4
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 5.26,
+        "calibrated": 2.91
+      },
+      "confidence_score": 0.78
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Premier League",
+      "match": "Everton v Chelsea",
+      "home_team": "FC Everton",
+      "away_team": "FC Chelsea",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.01
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.57,
+        "calibrated": 2.33
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Premier League",
+      "match": "Brentford v Liverpool",
+      "home_team": "FC Brentford",
+      "away_team": "FC Liverpool",
+      "home": {
+        "raw": 2.9,
+        "calibrated": 2.68
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 2.4,
+        "calibrated": 2.58
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Premier League",
+      "match": "Fulham v Hull",
+      "home_team": "FC Fulham",
+      "away_team": "Hull City",
+      "home": {
+        "raw": 4.82,
+        "calibrated": 2.88
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.81,
+        "calibrated": 2.42
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Premier League",
+      "match": "Newcastle v Aston Villa",
+      "home_team": "Newcastle United",
+      "away_team": "Aston Villa",
+      "home": {
+        "raw": 2.09,
+        "calibrated": 2.51
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 3.53,
+        "calibrated": 2.76
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Premier League",
+      "match": "Bournemouth v Sunderland",
+      "home_team": "AFC Bournemouth",
+      "away_team": "AFC Sunderland",
+      "home": {
+        "raw": 3.18,
+        "calibrated": 2.72
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 2.24,
+        "calibrated": 2.54
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Premier League",
+      "match": "Leeds v Manchester United",
+      "home_team": "Leeds United",
+      "away_team": "Manchester United",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.16
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.4,
+        "calibrated": 2.25
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-19",
+      "league": "Premier League",
+      "match": "Tottenham v Coventry",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "Coventry City",
+      "home": {
+        "raw": 4.5,
+        "calibrated": 2.86
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.86,
+        "calibrated": 2.43
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Sunderland v Brighton and Hove Albion",
+      "home_team": "AFC Sunderland",
+      "away_team": "Brighton & Hove Albion",
+      "home": {
+        "raw": 4.7,
+        "calibrated": 2.87
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.82,
+        "calibrated": 2.42
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Arsenal v Leeds United",
+      "home_team": "FC Arsenal",
+      "away_team": "Leeds United",
+      "home": {
+        "raw": 1.8,
+        "calibrated": 2.41
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 4.88,
+        "calibrated": 2.88
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Aston Villa v Brentford",
+      "home_team": "Aston Villa",
+      "away_team": "FC Brentford",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 2.97
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.64,
+        "calibrated": 2.35
+      },
+      "confidence_score": 0.92
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Chelsea v Bournemouth",
+      "home_team": "FC Chelsea",
+      "away_team": "AFC Bournemouth",
+      "home": {
+        "raw": 2.02,
+        "calibrated": 2.48
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 3.76,
+        "calibrated": 2.79
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Ipswich Town v Fulham",
+      "home_team": "Ipswich Town",
+      "away_team": "FC Fulham",
+      "home": {
+        "raw": 3.03,
+        "calibrated": 2.7
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 2.32,
+        "calibrated": 2.56
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-10",
+      "league": "Premier League",
+      "match": "Manchester United v Tottenham Hotspur",
+      "home_team": "Manchester United",
+      "away_team": "Tottenham Hotspur",
+      "home": {
+        "raw": 1.38,
+        "calibrated": 2.24
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.17
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-11",
+      "league": "Premier League",
+      "match": "Crystal Palace v Nottingham Forest",
+      "home_team": "Crystal Palace",
+      "away_team": "Nottingham Forest",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.18
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.38,
+        "calibrated": 2.24
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-11",
+      "league": "Premier League",
+      "match": "Hull City v Everton",
+      "home_team": "Hull City",
+      "away_team": "FC Everton",
+      "home": {
+        "raw": 2.01,
+        "calibrated": 2.48
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 3.78,
+        "calibrated": 2.79
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-11",
+      "league": "Premier League",
+      "match": "Liverpool v Manchester City",
+      "home_team": "FC Liverpool",
+      "away_team": "Manchester City",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.02
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 1.57,
+        "calibrated": 2.33
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "Premier League",
+      "match": "Manchester City v Ipswich Town",
+      "home_team": "Manchester City",
+      "away_team": "Ipswich Town",
+      "home": {
+        "raw": 1.35,
+        "calibrated": 2.23
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.21
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Premier League",
+      "match": "Brighton and Hove Albion v Crystal Palace",
+      "home_team": "Brighton & Hove Albion",
+      "away_team": "Crystal Palace",
+      "home": {
+        "raw": 1.47,
+        "calibrated": 2.28
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.1
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "Premier League",
+      "match": "Nottingham Forest v Arsenal",
+      "home_team": "Nottingham Forest",
+      "away_team": "FC Arsenal",
+      "home": {
+        "raw": 1.62,
+        "calibrated": 2.35
+      },
+      "draw": {
+        "fair_odds": 4.18
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 2.98
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-09",
+      "league": "La Liga",
+      "match": "Malaga v Espanyol",
+      "home_team": "FC M\u00e1laga",
+      "away_team": "Espanyol Barcelona",
+      "home": {
+        "raw": 3.44,
+        "calibrated": 2.83
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.24,
+        "calibrated": 2.6
+      },
+      "confidence_score": 0.98
+    },
+    {
+      "date": "2026-10-10",
+      "league": "La Liga",
+      "match": "Rayo v Athletic Bilbao",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Athletic Bilbao",
+      "home": {
+        "raw": 3.16,
+        "calibrated": 2.79
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.37,
+        "calibrated": 2.64
+      },
+      "confidence_score": 0.95
+    },
+    {
+      "date": "2026-10-10",
+      "league": "La Liga",
+      "match": "Alaves v Atletico Madrid",
+      "home_team": "Deportivo Alav\u00e9s",
+      "away_team": "Real Madrid",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.1
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 1.64,
+        "calibrated": 2.41
+      },
+      "confidence_score": 0.81
+    },
+    {
+      "date": "2026-10-10",
+      "league": "La Liga",
+      "match": "Real Madrid v Villarreal",
+      "home_team": "Real Madrid",
+      "away_team": "Villarreal CF",
+      "home": {
+        "raw": 2.14,
+        "calibrated": 2.58
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 3.7,
+        "calibrated": 2.86
+      },
+      "confidence_score": 0.5
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Elche v Celta Vigo",
+      "home_team": "FC Elche",
+      "away_team": "RC Celta",
+      "home": {
+        "raw": 2.49,
+        "calibrated": 2.66
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.97,
+        "calibrated": 2.76
+      },
+      "confidence_score": 0.97
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Real Sociedad v Deportivo",
+      "home_team": "Real Sociedad San Sebasti\u00e1n",
+      "away_team": "Deportivo La Coruna",
+      "home": {
+        "raw": 2.12,
+        "calibrated": 2.57
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 3.74,
+        "calibrated": 2.86
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Real Betis v Osasuna",
+      "home_team": "Real Betis",
+      "away_team": "CA Osasuna",
+      "home": {
+        "raw": 1.8,
+        "calibrated": 2.47
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 5.45,
+        "calibrated": 3.0
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-11",
+      "league": "La Liga",
+      "match": "Racing Santander v Valencia",
+      "home_team": "Racing Santander",
+      "away_team": "FC Valencia",
+      "home": {
+        "raw": 1.79,
+        "calibrated": 2.47
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 5.55,
+        "calibrated": 3.01
+      },
+      "confidence_score": 0.95
+    },
+    {
+      "date": "2026-10-12",
+      "league": "La Liga",
+      "match": "Levante v Sevilla",
+      "home_team": "Levante UD",
+      "away_team": "FC Sevilla",
+      "home": {
+        "raw": 2.49,
+        "calibrated": 2.66
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.97,
+        "calibrated": 2.76
+      },
+      "confidence_score": 0.99
+    },
+    {
+      "date": "2026-10-16",
+      "league": "La Liga",
+      "match": "Deportivo v Levante",
+      "home_team": "Deportivo La Coruna",
+      "away_team": "Levante UD",
+      "home": {
+        "raw": 2.81,
+        "calibrated": 2.73
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.62,
+        "calibrated": 2.69
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "La Liga",
+      "match": "Villarreal v Elche",
+      "home_team": "Villarreal CF",
+      "away_team": "FC Elche",
+      "home": {
+        "raw": 1.86,
+        "calibrated": 2.49
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 5.02,
+        "calibrated": 2.97
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "La Liga",
+      "match": "Real Betis v Barcelona",
+      "home_team": "Real Betis",
+      "away_team": "FC Barcelona",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.23
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 1.47,
+        "calibrated": 2.33
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "La Liga",
+      "match": "Valencia v Athletic Bilbao",
+      "home_team": "FC Valencia",
+      "away_team": "Athletic Bilbao",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.04
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 1.73,
+        "calibrated": 2.44
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-17",
+      "league": "La Liga",
+      "match": "Espanyol v Atletico Madrid",
+      "home_team": "Espanyol Barcelona",
+      "away_team": "Real Madrid",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.19
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 1.52,
+        "calibrated": 2.36
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "La Liga",
+      "match": "Osasuna v Racing Santander",
+      "home_team": "CA Osasuna",
+      "away_team": "Racing Santander",
+      "home": {
+        "raw": 3.29,
+        "calibrated": 2.81
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.3,
+        "calibrated": 2.62
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "La Liga",
+      "match": "Real Madrid v Sevilla",
+      "home_team": "Real Madrid",
+      "away_team": "FC Sevilla",
+      "home": {
+        "raw": 1.55,
+        "calibrated": 2.37
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.16
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "La Liga",
+      "match": "Celta Vigo v Alaves",
+      "home_team": "RC Celta",
+      "away_team": "Deportivo Alav\u00e9s",
+      "home": {
+        "raw": 2.95,
+        "calibrated": 2.75
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 2.5,
+        "calibrated": 2.67
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-18",
+      "league": "La Liga",
+      "match": "Malaga v Real Sociedad",
+      "home_team": "FC M\u00e1laga",
+      "away_team": "Real Sociedad San Sebasti\u00e1n",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.04
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 1.73,
+        "calibrated": 2.44
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-10-19",
+      "league": "La Liga",
+      "match": "Getafe v Rayo",
+      "home_team": "FC Getafe",
+      "away_team": "Rayo Vallecano",
+      "home": {
+        "raw": 5.59,
+        "calibrated": 3.01
+      },
+      "draw": {
+        "fair_odds": 3.82
+      },
+      "away": {
+        "raw": 1.79,
+        "calibrated": 2.47
+      },
+      "confidence_score": 0.7
+    }
+  ]
+}
