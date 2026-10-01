@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-01T19:28:37+00:00",
+  "generated_at": "2026-10-01T19:48:12+00:00",
   "provider": "GAMEBREAKER",
   "schema_version": "2.1-full-grid",
   "notes": [
     "home/away raw and calibrated are capped to 1.20-6.00 for display -- capped_for_display:true means this value hit that cap, not the model's true uncapped output",
     "draw.league_prior_odds is a league-wide constant (same value for every match in that league), not a match-specific price"
   ],
-  "fixture_count": 99,
+  "fixture_count": 84,
   "fixtures": [
     {
       "date": "2026-10-11",
@@ -442,11 +442,11 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 3.74,
+        "raw": 3.75,
         "calibrated": 2.86,
         "capped_for_display": false
       },
-      "confidence_score": 0.7
+      "confidence_score": 0.5
     },
     {
       "date": "2026-10-10",
@@ -847,116 +847,6 @@
     {
       "date": "2026-10-10",
       "league": "Premier League",
-      "match": "Sunderland v Brighton and Hove Albion",
-      "home_team": "AFC Sunderland",
-      "away_team": "Brighton & Hove Albion",
-      "home": {
-        "raw": 4.7,
-        "calibrated": 2.87,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 4.18,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.82,
-        "calibrated": 2.42,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-10",
-      "league": "Premier League",
-      "match": "Arsenal v Leeds United",
-      "home_team": "FC Arsenal",
-      "away_team": "Leeds United",
-      "home": {
-        "raw": 1.8,
-        "calibrated": 2.41,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 4.18,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 4.88,
-        "calibrated": 2.88,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-10",
-      "league": "Premier League",
-      "match": "Aston Villa v Brentford",
-      "home_team": "Aston Villa",
-      "away_team": "FC Brentford",
-      "home": {
-        "raw": 6.0,
-        "calibrated": 2.97,
-        "capped_for_display": true
-      },
-      "draw": {
-        "league_prior_odds": 4.18,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.64,
-        "calibrated": 2.35,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.92
-    },
-    {
-      "date": "2026-10-10",
-      "league": "Premier League",
-      "match": "Chelsea v Bournemouth",
-      "home_team": "FC Chelsea",
-      "away_team": "AFC Bournemouth",
-      "home": {
-        "raw": 2.02,
-        "calibrated": 2.48,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 4.18,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 3.76,
-        "calibrated": 2.79,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-10",
-      "league": "Premier League",
-      "match": "Ipswich Town v Fulham",
-      "home_team": "Ipswich Town",
-      "away_team": "FC Fulham",
-      "home": {
-        "raw": 3.03,
-        "calibrated": 2.7,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 4.18,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.32,
-        "calibrated": 2.56,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-10",
-      "league": "Premier League",
       "match": "Manchester United v Tottenham Hotspur",
       "home_team": "Manchester United",
       "away_team": "Tottenham Hotspur",
@@ -979,28 +869,6 @@
     {
       "date": "2026-10-11",
       "league": "Premier League",
-      "match": "Crystal Palace v Nottingham Forest",
-      "home_team": "Crystal Palace",
-      "away_team": "Nottingham Forest",
-      "home": {
-        "raw": 6.0,
-        "calibrated": 3.18,
-        "capped_for_display": true
-      },
-      "draw": {
-        "league_prior_odds": 4.18,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.38,
-        "calibrated": 2.24,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-11",
-      "league": "Premier League",
       "match": "Hull City v Everton",
       "home_team": "Hull City",
       "away_team": "FC Everton",
@@ -1016,28 +884,6 @@
       "away": {
         "raw": 3.78,
         "calibrated": 2.79,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-11",
-      "league": "Premier League",
-      "match": "Liverpool v Manchester City",
-      "home_team": "FC Liverpool",
-      "away_team": "Manchester City",
-      "home": {
-        "raw": 6.0,
-        "calibrated": 3.02,
-        "capped_for_display": true
-      },
-      "draw": {
-        "league_prior_odds": 4.18,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.57,
-        "calibrated": 2.33,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1109,124 +955,14 @@
       "confidence_score": 0.7
     },
     {
-      "date": "2026-10-09",
-      "league": "La Liga",
-      "match": "Malaga v Espanyol",
-      "home_team": "FC M\u00e1laga",
-      "away_team": "Espanyol Barcelona",
-      "home": {
-        "raw": 3.44,
-        "calibrated": 2.83,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.24,
-        "calibrated": 2.6,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.97
-    },
-    {
-      "date": "2026-10-10",
-      "league": "La Liga",
-      "match": "Rayo v Athletic Bilbao",
-      "home_team": "Rayo Vallecano",
-      "away_team": "Athletic Bilbao",
-      "home": {
-        "raw": 3.16,
-        "calibrated": 2.79,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.37,
-        "calibrated": 2.64,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.93
-    },
-    {
-      "date": "2026-10-10",
-      "league": "La Liga",
-      "match": "Alaves v Atletico Madrid",
-      "home_team": "Deportivo Alav\u00e9s",
-      "away_team": "Atl\u00e9tico de Madrid",
-      "home": {
-        "raw": 4.4,
-        "calibrated": 2.93,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.96,
-        "calibrated": 2.52,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.75
-    },
-    {
-      "date": "2026-10-10",
-      "league": "La Liga",
-      "match": "Real Madrid v Villarreal",
-      "home_team": "Real Madrid",
-      "away_team": "Villarreal CF",
-      "home": {
-        "raw": 2.14,
-        "calibrated": 2.58,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 3.7,
-        "calibrated": 2.86,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.51
-    },
-    {
-      "date": "2026-10-11",
-      "league": "La Liga",
-      "match": "Elche v Celta Vigo",
-      "home_team": "FC Elche",
-      "away_team": "RC Celta",
-      "home": {
-        "raw": 2.49,
-        "calibrated": 2.66,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.97,
-        "calibrated": 2.76,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.98
-    },
-    {
       "date": "2026-10-11",
       "league": "La Liga",
       "match": "Real Sociedad v Deportivo",
       "home_team": "Real Sociedad San Sebasti\u00e1n",
-      "away_team": "Deportivo La Coruna",
+      "away_team": "Deportivo Alav\u00e9s",
       "home": {
-        "raw": 2.12,
-        "calibrated": 2.57,
+        "raw": 2.36,
+        "calibrated": 2.63,
         "capped_for_display": false
       },
       "draw": {
@@ -1234,87 +970,21 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 3.74,
-        "calibrated": 2.86,
+        "raw": 3.18,
+        "calibrated": 2.79,
         "capped_for_display": false
       },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-11",
-      "league": "La Liga",
-      "match": "Real Betis v Osasuna",
-      "home_team": "Real Betis",
-      "away_team": "CA Osasuna",
-      "home": {
-        "raw": 1.8,
-        "calibrated": 2.47,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 5.45,
-        "calibrated": 3.0,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-10-11",
-      "league": "La Liga",
-      "match": "Racing Santander v Valencia",
-      "home_team": "Racing Santander",
-      "away_team": "FC Valencia",
-      "home": {
-        "raw": 1.79,
-        "calibrated": 2.47,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 5.55,
-        "calibrated": 3.01,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.94
-    },
-    {
-      "date": "2026-10-12",
-      "league": "La Liga",
-      "match": "Levante v Sevilla",
-      "home_team": "Levante UD",
-      "away_team": "FC Sevilla",
-      "home": {
-        "raw": 2.49,
-        "calibrated": 2.66,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.97,
-        "calibrated": 2.76,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.99
+      "confidence_score": 0.68
     },
     {
       "date": "2026-10-16",
       "league": "La Liga",
       "match": "Deportivo v Levante",
-      "home_team": "Deportivo La Coruna",
+      "home_team": "Deportivo Alav\u00e9s",
       "away_team": "Levante UD",
       "home": {
-        "raw": 2.81,
-        "calibrated": 2.73,
+        "raw": 2.47,
+        "calibrated": 2.66,
         "capped_for_display": false
       },
       "draw": {
@@ -1322,8 +992,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.62,
-        "calibrated": 2.69,
+        "raw": 3.01,
+        "calibrated": 2.76,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1872,11 +1542,11 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 5.33,
+        "raw": 5.28,
         "calibrated": 2.99,
         "capped_for_display": false
       },
-      "confidence_score": 0.7
+      "confidence_score": 0.5
     },
     {
       "date": "2026-10-25",
