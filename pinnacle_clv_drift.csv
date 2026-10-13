@@ -237,14 +237,12 @@ PSG v Rennes,Rennes,Ligue 1,6.6,,,,6.5,+1.54%,D,5
 Arsenal v Coventry City,Coventry City,Premier League,16.05,,,,16.0,+0.31%,L,
 Betis v Sociedad,Sociedad,La Liga,3.7,,,,3.4,+8.82%,L,
 Newcastle United v Liverpool,Liverpool,Premier League,2.07,,,,1.93,+7.25%,D,
-Brentford v Tottenham Hotspur,Tottenham Hotspur,Premier League,2.8,,,,,,,
 Brighton and Hove Albion v Aston Villa,Brighton,Premier League,2.26,,,,2.13,+6.10%,W,
 Fulham v Chelsea,Chelsea,Premier League,2.17,,,,2.05,+5.85%,W,
 OM v Strasbourg,Strasbourg,Ligue 1,4.67,,,,4.58,+1.97%,L,
 Strasbourg v RC Lens,RC Lens,Ligue 1,2.18,2.1,2.09,1.87,,14.74%,,1.8
 AJ Auxerre v Angers SCO,Angers SCO,Ligue 1,4.38,4.13,3.81,3.7,,25.50%,,4.0
 Brest v Toulouse FC,Toulouse FC,Ligue 1,2.75,2.72,2.68,2.83,,-2.83%,,2.5
-OL v Havre AC,Havre AC,Ligue 1,6.75,,,,,,,6.0
 Paris FC v OGC Nice,Paris FC,Ligue 1,2.15,2.09,2.1,2.02,,8.59%,,2.07
 AS Monaco v OM,OM,Ligue 1,2.56,2.81,,,,-13.1%,,2.31
 Bournemouth v Everton,Bournemouth,Premier League,2.11,2.07,2.08,2.2,,-5.8%,,1.98
@@ -253,23 +251,15 @@ Spurs v Newcastle,Newcastle,Premier League,3.34,2.95,3.01,3.22,,5.03%,,3.0
 Chelsea v Brighton,Brighton,Premier League,3.61,4.11,4.11,4.05,,-8.82%,,3.0
 Sunderland v Fulham,Sunderland,Premier League,2.62,2.46,2.46,2.33,,15.42%,,2.38
 Leeds v Brentford,Brentford,Premier League,2.96,2.77,2.79,2.5,,16.08%,,2.02
-Valencia v Betis,Betis,La Liga,2.7,,,,,,,2.0
-Celta v Osasuna,Celta,La Liga,2.07,,,,,,,1.86
-Alaves v Villarreal,Villarreal,La Liga,2.38,,,,,,,2.0
-Levante v Betis,Betis,La Liga,2.27,,,,,,,2.1
-Sevilla v Atletico Madrid,Atletico Madrid,La Liga,2.09,,,,,,,1.88
-Deportivo v Valencia,Valencia,La Liga,3.02,,,,,,,2.66
 Celta v Athletic,Celta,La Liga,2.43,,,,,,,2.12
-Wrexham v Birmingham City,Wrexham,Championship,2.59,,,,,,,2.21
 Derby County v Swansea City,Swansea City,Championship,3.61,3.14,3.17,3.19,,17.59%,,3.1
 Middlesbrough v West Bromwich Albion,West Bromwich Albion,Championship,4.59,4.4,4.77,4.89,,-2.34%,,3.96
-Blackburn Rovers v Queens Park Rangers,QPR,Championship,2.99,,,,,,,2.76
-Bolton Wanderers v Lincoln City,Bolton Wanderers,Championship,2.61,,,,,,,
+Blackburn Rovers v Queens Park Rangers,QPR,Championship,2.99,,,,2.6,+15.00%,,2.76
+Bolton Wanderers v Lincoln City,Bolton Wanderers,Championship,2.61,,,,2.5,+4.40%,,
 Charlton Athletic v Preston North End,Charlton Athletic,Championship,2.32,,,,2.13,+8.92%,TBD,2.14
 Southampton v Millwall,Millwall,Championship,4.22,,,,3.69,+14.36%,TBD,3.0
 Watford v West Ham United,Watford,Championship,3.94,,,,,,,
 Celta v Osasuna,Celta,La Liga,2.07,1.95,1.98,1.9,1.9,11.89%,,1.86
-Osasuna v Getafe,Osasuna,La Liga,2.23,,,,,,,2.03
 Sociedad v Espanyol,Espanyol,La Liga,4.12,,,,,,,3.93
 Wrexham v Birmingham City,Wrexham,Championship,2.59,,,,2.22,16.67%,L,2.21
 Alaves v Villarreal,Villarreal,La Liga,2.38,,,,2.35,1.28%,L,2
@@ -290,14 +280,9 @@ Levante vs Betis,Betis,La Liga,2.27,2.2,2.2,2.25,2.34,-2.99%,TBD,2.1
 Real Sociedad vs Espanyol,Espanyol,La Liga,4.12,4.12,4.12,4.13,4.13,-0.24%,TBD,3.93
 Sevilla vs Atletico Madrid,Atletico Madrid,La Liga,2.09,2.15,2.05,1.94,1.96,6.63%,TBD,1.88
 Le Mans FC v Brest,Brest,Ligue 1,2.75,2.8,2.8,2.92,2.92,-5.82%,TBD,2.7
-Angers SCO v Rennes,Angers SCO,Ligue 1,4.1,,,,,,TBD,3.7
-Havre AC v Brest,Havre AC,Ligue 1,2.64,,,,,,TBD,2.51
 RC Lens v FC Lorient,FC Lorient,Ligue 1,6.55,,,,,,TBD,4.95
-OL v AJ Auxerre,AJ Auxerre,Ligue 1,6.1,,,,,,TBD,4.9
-OGC Nice v Le Mans FC,Le Mans FC,Ligue 1,4.28,,,,,,TBD,3.88
-PSG v AS Monaco,AS Monaco,Ligue 1,6.88,,,,,,TBD,4.23
 Toulouse FC v LOSC,LOSC,Ligue 1,2.18,2.21,2.16,,1.86,+17.20%,TBD,1.96
-Troyes v Strasbourg,Strasbourg,Ligue 1,2.35,,,,,,TBD,2.11
+Troyes v Strasbourg,Strasbourg,Ligue 1,2.35,,,,2.5,-6.00%,TBD,2.11
 Ipswich Town v Sunderland,Ipswich Town,Premier League,2.74,2.78,2.86,2.84,2.93,-6.48%,TBD,2.69
 Nottingham Forest v Leeds United,Leeds United,Premier League,3.26,3.22,3.16,3.08,3.08,5.84%,TBD,2.89
 Arsenal v Chelsea,Chelsea,Premier League,5.65,,,,5.0,+13.00%,L,3.8
@@ -305,13 +290,10 @@ Brentford v Sunderland,Sunderland,Premier League,5.59,,,,5.04,+10.91%,L,4.1
 Brighton and Hove Albion v Leeds United,Leeds United,Premier League,4.24,,,,3.74,+13.37%,L,3.92
 Bolton Wanderers v Preston North End,Preston North End,Championship,3.28,3.22,3.31,3.2,3.07,6.84%,TBD,2.99
 Burnley v West Ham United,West Ham United,Championship,2.4,2.28,2.28,2.25,2.34,2.56%,TBD,2.0
-Derby County v Cardiff City,Derby,Championship,1.99,1.99,1.98,2.22,,,TBD,1.86
-West Ham United v Charlton Athletic,West Ham United,Championship,,,,,,,TBD,
-West Bromwich Albion v Burnley,Burnley,Championship,2.55,2.59,2.54,,,,TBD,2.1
+Derby County v Cardiff City,Derby,Championship,1.99,1.99,1.98,2.22,2.22,-10.36%,TBD,1.86
 Cardiff City v Sheffield United,Sheffield United,Championship,2.72,2.57,2.55,2.35,2.34,16.39%,L,2.56
 Norwich City v Burnley,Burnley,Championship,2.93,2.91,3.19,3.48,3.48,-15.80%,L,2.77
 Birmingham City v Southampton,Southampton,Championship,2.94,2.8,,2.57,2.55,15.29%,L,2.44
-Lincoln City v Blackburn Rovers,Lincoln City,Championship,,,,,,,TBD,
 Preston North End v Bristol City,Bristol City,Championship,2.92,2.79,2.68,2.4,2.59,12.74%,W,2.69
 Sheffield United v Norwich City,Sheffield United,Championship,2.43,,,,2.63,-7.61%,L,2.21
 Swansea City v Watford,Swansea City,Championship,,,,,,,TBD,
@@ -350,13 +332,12 @@ Wrexham v Southampton,Southampton,Championship,2.23,,,,2.57,-13.23%,L,1.87
 Burnley v Derby County,Derby County,Championship,4.3,,,,4.36,-1.38%,D,3.2
 Manchester United v Manchester City,Manchester United,Premier League,3.34,3.21,3.17,3.12,3.0,+11.33%,L,2.76
 Birmingham City v Middlesbrough,Middlesbrough,Championship,2.22,,,,2.48,-10.48%,D,1.77
-Lyon v Rennes,Rennes,Ligue 1,3.19,,,,,,TBD,2.56
+Lyon v Rennes,Rennes,Ligue 1,3.19,,,,3.3,-3.33%,TBD,2.56
 OGC Nice v LOSC,LOSC,Ligue 1,2.01,,,,,,TBD,1.87
 Toulouse v Le Havre,Le Havre,Ligue 1,4.29,,,,4.78,-10.25%,L,3.69
 AS Monaco v RC Lens,AS Monaco,Ligue 1,2.18,2.07,2.11,1.91,1.86,+17.20%,W,1.99
 Athletic vs Alaves,Alaves,La Liga,5.03,,,,,,TBD,3.66
 Celta vs Racing Santander,Racing Santander,La Liga,4.05,,,,4.35,-6.90%,L,3.42
-Atletico Madrid vs Real Madrid,Real Madrid,La Liga,,,,,,,TBD,
 Aston Villa v Brentford,Brentford,Premier League,2.68,,,,2.68,+0.00%,D,2.27
 Ipswich Town v Fulham,Ipswich Town,Premier League,2.67,,,,3.15,-15.24%,W,2.5
 Sunderland v Brighton and Hove Albion,Brighton and Hove Albion,Premier League,2.49,,,,2.42,+2.89%,W,2.24
