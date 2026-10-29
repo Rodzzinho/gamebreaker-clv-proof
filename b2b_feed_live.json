@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:04:01+00:00",
+  "generated_at": "2026-10-29T06:04:55+00:00",
   "provider": "GAMEBREAKER",
   "schema_version": "2.1-full-grid",
   "notes": [
@@ -719,7 +719,7 @@
       "home_team": "Rayo Vallecano",
       "away_team": "RC Celta",
       "home": {
-        "raw": 4.59,
+        "raw": 4.55,
         "calibrated": 2.94,
         "capped_for_display": false
       },
@@ -728,7 +728,7 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.92,
+        "raw": 1.93,
         "calibrated": 2.51,
         "capped_for_display": false
       },
@@ -970,7 +970,7 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 4.05,
+        "raw": 4.06,
         "calibrated": 2.89,
         "capped_for_display": false
       },
@@ -1027,7 +1027,7 @@
       "home_team": "Real Sociedad San Sebasti\u00e1n",
       "away_team": "Rayo Vallecano",
       "home": {
-        "raw": 1.89,
+        "raw": 1.88,
         "calibrated": 2.5,
         "capped_for_display": false
       },
@@ -1049,7 +1049,7 @@
       "home_team": "RC Celta",
       "away_team": "Levante UD",
       "home": {
-        "raw": 2.6,
+        "raw": 2.62,
         "calibrated": 2.69,
         "capped_for_display": false
       },
@@ -1058,7 +1058,7 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.83,
+        "raw": 2.81,
         "calibrated": 2.73,
         "capped_for_display": false
       },
@@ -1203,7 +1203,7 @@
       "home_team": "Real Madrid",
       "away_team": "RC Celta",
       "home": {
-        "raw": 2.26,
+        "raw": 2.25,
         "calibrated": 2.61,
         "capped_for_display": false
       },
@@ -1212,7 +1212,7 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 3.39,
+        "raw": 3.41,
         "calibrated": 2.82,
         "capped_for_display": false
       },
@@ -1379,8 +1379,8 @@
       "home_team": "LOSC Lille",
       "away_team": "RC Lens",
       "home": {
-        "raw": 2.35,
-        "calibrated": 2.59,
+        "raw": 2.28,
+        "calibrated": 2.57,
         "capped_for_display": false
       },
       "draw": {
@@ -1388,8 +1388,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 3.05,
-        "calibrated": 2.72,
+        "raw": 3.16,
+        "calibrated": 2.74,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1533,7 +1533,7 @@
       "home_team": "FC Toulouse",
       "away_team": "RC Stra\u00dfburg Alsace",
       "home": {
-        "raw": 1.46,
+        "raw": 1.45,
         "calibrated": 2.29,
         "capped_for_display": false
       },
@@ -1652,7 +1652,7 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 4.38,
+        "raw": 4.39,
         "calibrated": 2.87,
         "capped_for_display": false
       },
@@ -1709,8 +1709,8 @@
       "home_team": "RC Lens",
       "away_team": "Olympique Marseille",
       "home": {
-        "raw": 3.66,
-        "calibrated": 2.8,
+        "raw": 3.82,
+        "calibrated": 2.82,
         "capped_for_display": false
       },
       "draw": {
@@ -1718,8 +1718,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.08,
-        "calibrated": 2.52,
+        "raw": 2.03,
+        "calibrated": 2.51,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1797,8 +1797,8 @@
       "home_team": "RC Lens",
       "away_team": "FC Toulouse",
       "home": {
-        "raw": 3.6,
-        "calibrated": 2.79,
+        "raw": 3.75,
+        "calibrated": 2.81,
         "capped_for_display": false
       },
       "draw": {
@@ -1806,8 +1806,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.1,
-        "calibrated": 2.52,
+        "raw": 2.05,
+        "calibrated": 2.51,
         "capped_for_display": false
       },
       "confidence_score": 0.7
