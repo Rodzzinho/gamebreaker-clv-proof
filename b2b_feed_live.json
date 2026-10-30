@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:04:55+00:00",
+  "generated_at": "2026-10-30T06:04:47+00:00",
   "provider": "GAMEBREAKER",
   "schema_version": "2.1-full-grid",
   "notes": [
@@ -1476,8 +1476,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 5.66,
-        "calibrated": 2.95,
+        "raw": 5.69,
+        "calibrated": 2.96,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1533,7 +1533,7 @@
       "home_team": "FC Toulouse",
       "away_team": "RC Stra\u00dfburg Alsace",
       "home": {
-        "raw": 1.45,
+        "raw": 1.46,
         "calibrated": 2.29,
         "capped_for_display": false
       },
@@ -1609,7 +1609,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.01,
+        "calibrated": 3.0,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -1621,7 +1621,7 @@
       "home_team": "FC Le Mans",
       "away_team": "AS Monaco",
       "home": {
-        "raw": 2.86,
+        "raw": 2.85,
         "calibrated": 2.69,
         "capped_for_display": false
       },
@@ -1652,7 +1652,7 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 4.39,
+        "raw": 4.38,
         "calibrated": 2.87,
         "capped_for_display": false
       },
