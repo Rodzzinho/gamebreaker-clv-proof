@@ -1,0 +1,10 @@
+parlay_id,label,date_logged,leg,fixture,pick,price,price_source,kickoff_utc,result
+P1,A straight winners (highest win chance),2026-11-03,1,Villarreal v Getafe,Villarreal,1.45,screenshot book 3 Nov,2026-11-08T17:30,TBD
+P1,A straight winners (highest win chance),2026-11-03,2,Toulouse v Strasbourg,Toulouse,2.11,screenshot book 3 Nov,2026-11-06T19:45,TBD
+P1,A straight winners (highest win chance),2026-11-03,3,Celta v Levante,Celta,1.854,screenshot book 3 Nov,2026-11-08T17:30,TBD
+P2,B undervalued and likely to win,2026-11-03,1,Toulouse v Strasbourg,Toulouse,2.11,screenshot book 3 Nov,2026-11-06T19:45,TBD
+P2,B undervalued and likely to win,2026-11-03,2,Malaga v Racing Santander,Malaga,2.45,screenshot book 3 Nov,2026-11-07T13:00,TBD
+P2,B undervalued and likely to win,2026-11-03,3,Leeds v Tottenham,Tottenham,2.77,screenshot book 3 Nov,2026-11-07T12:30,TBD
+P3,C CLV-based (logged entries),2026-11-03,1,Lens v Marseille,Marseille,3.21,logged entry,2026-11-08T19:45,TBD
+P3,C CLV-based (logged entries),2026-11-03,2,Brest v Lyon,Brest,2.9,logged entry,2026-11-08T16:15,TBD
+P3,C CLV-based (logged entries),2026-11-03,3,Leeds v Tottenham,Tottenham,2.76,logged entry,2026-11-07T12:30,TBD
