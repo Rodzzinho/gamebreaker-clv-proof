@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-05T06:06:40+00:00",
+  "generated_at": "2026-11-06T06:06:39+00:00",
   "provider": "GAMEBREAKER",
   "schema_version": "2.1-full-grid",
   "notes": [
     "home/away raw and calibrated are capped to 1.20-6.00 for display -- capped_for_display:true means this value hit that cap, not the model's true uncapped output",
     "draw.league_prior_odds is a league-wide constant (same value for every match in that league), not a match-specific price"
   ],
-  "fixture_count": 96,
+  "fixture_count": 97,
   "fixtures": [
     {
       "date": "2026-11-06",
@@ -862,6 +862,28 @@
       "away": {
         "raw": 2.09,
         "calibrated": 2.5,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-03",
+      "league": "Premier League",
+      "match": "Tottenham Hotspur v FC Fulham",
+      "home_team": "Tottenham Hotspur",
+      "away_team": "FC Fulham",
+      "home": {
+        "raw": 3.92,
+        "calibrated": 2.81,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 4.18,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.98,
+        "calibrated": 2.47,
         "capped_for_display": false
       },
       "confidence_score": 0.7
