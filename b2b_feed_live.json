@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-16T06:06:40+00:00",
+  "generated_at": "2026-11-17T06:05:53+00:00",
   "provider": "GAMEBREAKER",
   "schema_version": "2.1-full-grid",
   "notes": [
     "home/away raw and calibrated are capped to 1.20-6.00 for display -- capped_for_display:true means this value hit that cap, not the model's true uncapped output",
     "draw.league_prior_odds is a league-wide constant (same value for every match in that league), not a match-specific price"
   ],
-  "fixture_count": 127,
+  "fixture_count": 128,
   "fixtures": [
     {
       "date": "2026-11-21",
@@ -1087,6 +1087,28 @@
       "confidence_score": 0.5
     },
     {
+      "date": "2026-12-14",
+      "league": "Premier League",
+      "match": "Hull City v Tottenham Hotspur",
+      "home_team": "Hull City",
+      "away_team": "Tottenham Hotspur",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.23,
+        "capped_for_display": true
+      },
+      "draw": {
+        "league_prior_odds": 4.18,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.33,
+        "calibrated": 2.22,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.5
+    },
+    {
       "date": "2026-11-20",
       "league": "La Liga",
       "match": "Athletic Bilbao v Espanyol Barcelona",
@@ -1683,50 +1705,6 @@
     {
       "date": "2026-12-06",
       "league": "La Liga",
-      "match": "FC Sevilla v FC M\u00e1laga",
-      "home_team": "FC Sevilla",
-      "away_team": "FC M\u00e1laga",
-      "home": {
-        "raw": 3.79,
-        "calibrated": 2.87,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.11,
-        "calibrated": 2.57,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-06",
-      "league": "La Liga",
-      "match": "Atl\u00e9tico de Madrid v Real Betis",
-      "home_team": "Atl\u00e9tico de Madrid",
-      "away_team": "Real Betis",
-      "home": {
-        "raw": 6.0,
-        "calibrated": 3.12,
-        "capped_for_display": true
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.6,
-        "calibrated": 2.39,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-06",
-      "league": "La Liga",
       "match": "CA Osasuna v FC Elche",
       "home_team": "CA Osasuna",
       "away_team": "FC Elche",
@@ -1786,6 +1764,50 @@
       "away": {
         "raw": 2.5,
         "calibrated": 2.67,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-06",
+      "league": "La Liga",
+      "match": "Atl\u00e9tico de Madrid v Real Betis",
+      "home_team": "Atl\u00e9tico de Madrid",
+      "away_team": "Real Betis",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.12,
+        "capped_for_display": true
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.6,
+        "calibrated": 2.39,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-07",
+      "league": "La Liga",
+      "match": "FC Sevilla v FC M\u00e1laga",
+      "home_team": "FC Sevilla",
+      "away_team": "FC M\u00e1laga",
+      "home": {
+        "raw": 3.79,
+        "calibrated": 2.87,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.11,
+        "calibrated": 2.57,
         "capped_for_display": false
       },
       "confidence_score": 0.7
