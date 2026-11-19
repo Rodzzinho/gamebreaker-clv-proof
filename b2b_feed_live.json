@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:05:44+00:00",
+  "generated_at": "2026-11-19T14:54:29+00:00",
   "provider": "GAMEBREAKER",
   "schema_version": "2.1-full-grid",
   "notes": [
@@ -1115,8 +1115,8 @@
       "home_team": "Athletic Bilbao",
       "away_team": "Espanyol Barcelona",
       "home": {
-        "raw": 1.7,
-        "calibrated": 2.43,
+        "raw": 2.05,
+        "calibrated": 2.55,
         "capped_for_display": false
       },
       "draw": {
@@ -1124,9 +1124,9 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 6.0,
-        "calibrated": 3.06,
-        "capped_for_display": true
+        "raw": 3.99,
+        "calibrated": 2.89,
+        "capped_for_display": false
       },
       "confidence_score": 0.7
     },
@@ -1137,17 +1137,17 @@
       "home_team": "Deportivo Alav\u00e9s",
       "away_team": "Deportivo La Coruna",
       "home": {
-        "raw": 6.0,
-        "calibrated": 3.09,
-        "capped_for_display": true
+        "raw": 3.27,
+        "calibrated": 2.8,
+        "capped_for_display": false
       },
       "draw": {
         "league_prior_odds": 3.82,
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.66,
-        "calibrated": 2.42,
+        "raw": 2.31,
+        "calibrated": 2.62,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1159,8 +1159,8 @@
       "home_team": "Rayo Vallecano",
       "away_team": "FC Valencia",
       "home": {
-        "raw": 2.02,
-        "calibrated": 2.54,
+        "raw": 2.12,
+        "calibrated": 2.57,
         "capped_for_display": false
       },
       "draw": {
@@ -1168,8 +1168,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 4.13,
-        "calibrated": 2.9,
+        "raw": 3.76,
+        "calibrated": 2.86,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1182,7 +1182,7 @@
       "away_team": "Real Betis",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.18,
+        "calibrated": 3.21,
         "capped_for_display": true
       },
       "draw": {
@@ -1190,8 +1190,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.53,
-        "calibrated": 2.36,
+        "raw": 1.49,
+        "calibrated": 2.34,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1201,490 +1201,6 @@
       "league": "La Liga",
       "match": "Real Madrid v RC Celta",
       "home_team": "Real Madrid",
-      "away_team": "RC Celta",
-      "home": {
-        "raw": 1.48,
-        "calibrated": 2.34,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 6.0,
-        "calibrated": 3.22,
-        "capped_for_display": true
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-22",
-      "league": "La Liga",
-      "match": "FC Barcelona v Villarreal CF",
-      "home_team": "FC Barcelona",
-      "away_team": "Villarreal CF",
-      "home": {
-        "raw": 1.56,
-        "calibrated": 2.37,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 6.0,
-        "calibrated": 3.16,
-        "capped_for_display": true
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-22",
-      "league": "La Liga",
-      "match": "Racing Santander v Real Sociedad San Sebasti\u00e1n",
-      "home_team": "Racing Santander",
-      "away_team": "Real Sociedad San Sebasti\u00e1n",
-      "home": {
-        "raw": 2.58,
-        "calibrated": 2.68,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.86,
-        "calibrated": 2.74,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-22",
-      "league": "La Liga",
-      "match": "CA Osasuna v FC M\u00e1laga",
-      "home_team": "CA Osasuna",
-      "away_team": "FC M\u00e1laga",
-      "home": {
-        "raw": 2.91,
-        "calibrated": 2.75,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.54,
-        "calibrated": 2.67,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-22",
-      "league": "La Liga",
-      "match": "FC Getafe v Atl\u00e9tico de Madrid",
-      "home_team": "FC Getafe",
-      "away_team": "Atl\u00e9tico de Madrid",
-      "home": {
-        "raw": 5.8,
-        "calibrated": 3.02,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.77,
-        "calibrated": 2.46,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-23",
-      "league": "La Liga",
-      "match": "Levante UD v FC Elche",
-      "home_team": "Levante UD",
-      "away_team": "FC Elche",
-      "home": {
-        "raw": 2.52,
-        "calibrated": 2.67,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.93,
-        "calibrated": 2.75,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-27",
-      "league": "La Liga",
-      "match": "Levante UD v Racing Santander",
-      "home_team": "Levante UD",
-      "away_team": "Racing Santander",
-      "home": {
-        "raw": 5.89,
-        "calibrated": 3.02,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.76,
-        "calibrated": 2.46,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-28",
-      "league": "La Liga",
-      "match": "Real Betis v Rayo Vallecano",
-      "home_team": "Real Betis",
-      "away_team": "Rayo Vallecano",
-      "home": {
-        "raw": 1.54,
-        "calibrated": 2.37,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 6.0,
-        "calibrated": 3.17,
-        "capped_for_display": true
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-28",
-      "league": "La Liga",
-      "match": "FC M\u00e1laga v Athletic Bilbao",
-      "home_team": "FC M\u00e1laga",
-      "away_team": "Athletic Bilbao",
-      "home": {
-        "raw": 2.26,
-        "calibrated": 2.61,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 3.38,
-        "calibrated": 2.82,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-28",
-      "league": "La Liga",
-      "match": "FC Elche v Atl\u00e9tico de Madrid",
-      "home_team": "FC Elche",
-      "away_team": "Atl\u00e9tico de Madrid",
-      "home": {
-        "raw": 5.8,
-        "calibrated": 3.02,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.77,
-        "calibrated": 2.46,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-28",
-      "league": "La Liga",
-      "match": "Real Madrid v Deportivo Alav\u00e9s",
-      "home_team": "Real Madrid",
-      "away_team": "Deportivo Alav\u00e9s",
-      "home": {
-        "raw": 1.48,
-        "calibrated": 2.34,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 6.0,
-        "calibrated": 3.22,
-        "capped_for_display": true
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-29",
-      "league": "La Liga",
-      "match": "FC Valencia v CA Osasuna",
-      "home_team": "FC Valencia",
-      "away_team": "CA Osasuna",
-      "home": {
-        "raw": 5.45,
-        "calibrated": 3.0,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.8,
-        "calibrated": 2.47,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-29",
-      "league": "La Liga",
-      "match": "Deportivo La Coruna v FC Barcelona",
-      "home_team": "Deportivo La Coruna",
-      "away_team": "FC Barcelona",
-      "home": {
-        "raw": 5.02,
-        "calibrated": 2.97,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.86,
-        "calibrated": 2.49,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-29",
-      "league": "La Liga",
-      "match": "RC Celta v Villarreal CF",
-      "home_team": "RC Celta",
-      "away_team": "Villarreal CF",
-      "home": {
-        "raw": 3.78,
-        "calibrated": 2.87,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.11,
-        "calibrated": 2.57,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-29",
-      "league": "La Liga",
-      "match": "Real Sociedad San Sebasti\u00e1n v FC Sevilla",
-      "home_team": "Real Sociedad San Sebasti\u00e1n",
-      "away_team": "FC Sevilla",
-      "home": {
-        "raw": 2.24,
-        "calibrated": 2.6,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 3.44,
-        "calibrated": 2.83,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-11-30",
-      "league": "La Liga",
-      "match": "Espanyol Barcelona v FC Getafe",
-      "home_team": "Espanyol Barcelona",
-      "away_team": "FC Getafe",
-      "home": {
-        "raw": 3.29,
-        "calibrated": 2.81,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.3,
-        "calibrated": 2.62,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-02",
-      "league": "La Liga",
-      "match": "Real Sociedad San Sebasti\u00e1n v Real Madrid",
-      "home_team": "Real Sociedad San Sebasti\u00e1n",
-      "away_team": "Real Madrid",
-      "home": {
-        "raw": 6.0,
-        "calibrated": 3.14,
-        "capped_for_display": true
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.59,
-        "calibrated": 2.39,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-02",
-      "league": "La Liga",
-      "match": "FC Barcelona v Atl\u00e9tico de Madrid",
-      "home_team": "FC Barcelona",
-      "away_team": "Atl\u00e9tico de Madrid",
-      "home": {
-        "raw": 1.55,
-        "calibrated": 2.37,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 6.0,
-        "calibrated": 3.16,
-        "capped_for_display": true
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-04",
-      "league": "La Liga",
-      "match": "Deportivo Alav\u00e9s v Espanyol Barcelona",
-      "home_team": "Deportivo Alav\u00e9s",
-      "away_team": "Espanyol Barcelona",
-      "home": {
-        "raw": 1.86,
-        "calibrated": 2.49,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 5.03,
-        "calibrated": 2.97,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-05",
-      "league": "La Liga",
-      "match": "Racing Santander v Deportivo La Coruna",
-      "home_team": "Racing Santander",
-      "away_team": "Deportivo La Coruna",
-      "home": {
-        "raw": 4.31,
-        "calibrated": 2.92,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 1.98,
-        "calibrated": 2.53,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-05",
-      "league": "La Liga",
-      "match": "Rayo Vallecano v Levante UD",
-      "home_team": "Rayo Vallecano",
-      "away_team": "Levante UD",
-      "home": {
-        "raw": 2.0,
-        "calibrated": 2.54,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 4.18,
-        "calibrated": 2.91,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-05",
-      "league": "La Liga",
-      "match": "Villarreal CF v Real Sociedad San Sebasti\u00e1n",
-      "home_team": "Villarreal CF",
-      "away_team": "Real Sociedad San Sebasti\u00e1n",
-      "home": {
-        "raw": 2.72,
-        "calibrated": 2.71,
-        "capped_for_display": false
-      },
-      "draw": {
-        "league_prior_odds": 3.82,
-        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
-      },
-      "away": {
-        "raw": 2.7,
-        "calibrated": 2.71,
-        "capped_for_display": false
-      },
-      "confidence_score": 0.7
-    },
-    {
-      "date": "2026-12-05",
-      "league": "La Liga",
-      "match": "FC Barcelona v RC Celta",
-      "home_team": "FC Barcelona",
       "away_team": "RC Celta",
       "home": {
         "raw": 1.47,
@@ -1703,14 +1219,14 @@
       "confidence_score": 0.7
     },
     {
-      "date": "2026-12-06",
+      "date": "2026-11-22",
       "league": "La Liga",
-      "match": "CA Osasuna v FC Elche",
-      "home_team": "CA Osasuna",
-      "away_team": "FC Elche",
+      "match": "FC Barcelona v Villarreal CF",
+      "home_team": "FC Barcelona",
+      "away_team": "Villarreal CF",
       "home": {
-        "raw": 1.73,
-        "calibrated": 2.45,
+        "raw": 1.45,
+        "calibrated": 2.33,
         "capped_for_display": false
       },
       "draw": {
@@ -1719,8 +1235,492 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.04,
+        "calibrated": 3.24,
         "capped_for_display": true
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-22",
+      "league": "La Liga",
+      "match": "Racing Santander v Real Sociedad San Sebasti\u00e1n",
+      "home_team": "Racing Santander",
+      "away_team": "Real Sociedad San Sebasti\u00e1n",
+      "home": {
+        "raw": 2.69,
+        "calibrated": 2.71,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.73,
+        "calibrated": 2.71,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-22",
+      "league": "La Liga",
+      "match": "CA Osasuna v FC M\u00e1laga",
+      "home_team": "CA Osasuna",
+      "away_team": "FC M\u00e1laga",
+      "home": {
+        "raw": 2.52,
+        "calibrated": 2.67,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.93,
+        "calibrated": 2.75,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-22",
+      "league": "La Liga",
+      "match": "FC Getafe v Atl\u00e9tico de Madrid",
+      "home_team": "FC Getafe",
+      "away_team": "Atl\u00e9tico de Madrid",
+      "home": {
+        "raw": 4.13,
+        "calibrated": 2.9,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.02,
+        "calibrated": 2.54,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-23",
+      "league": "La Liga",
+      "match": "Levante UD v FC Elche",
+      "home_team": "Levante UD",
+      "away_team": "FC Elche",
+      "home": {
+        "raw": 2.76,
+        "calibrated": 2.72,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.67,
+        "calibrated": 2.7,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-27",
+      "league": "La Liga",
+      "match": "Levante UD v Racing Santander",
+      "home_team": "Levante UD",
+      "away_team": "Racing Santander",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.06,
+        "capped_for_display": true
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.7,
+        "calibrated": 2.43,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-28",
+      "league": "La Liga",
+      "match": "Real Betis v Rayo Vallecano",
+      "home_team": "Real Betis",
+      "away_team": "Rayo Vallecano",
+      "home": {
+        "raw": 1.48,
+        "calibrated": 2.34,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.22,
+        "capped_for_display": true
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-28",
+      "league": "La Liga",
+      "match": "FC M\u00e1laga v Athletic Bilbao",
+      "home_team": "FC M\u00e1laga",
+      "away_team": "Athletic Bilbao",
+      "home": {
+        "raw": 2.38,
+        "calibrated": 2.64,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 3.15,
+        "calibrated": 2.78,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-28",
+      "league": "La Liga",
+      "match": "FC Elche v Atl\u00e9tico de Madrid",
+      "home_team": "FC Elche",
+      "away_team": "Atl\u00e9tico de Madrid",
+      "home": {
+        "raw": 4.27,
+        "calibrated": 2.91,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.99,
+        "calibrated": 2.53,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-28",
+      "league": "La Liga",
+      "match": "Real Madrid v Deportivo Alav\u00e9s",
+      "home_team": "Real Madrid",
+      "away_team": "Deportivo Alav\u00e9s",
+      "home": {
+        "raw": 1.47,
+        "calibrated": 2.33,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.23,
+        "capped_for_display": true
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-29",
+      "league": "La Liga",
+      "match": "FC Valencia v CA Osasuna",
+      "home_team": "FC Valencia",
+      "away_team": "CA Osasuna",
+      "home": {
+        "raw": 5.62,
+        "calibrated": 3.01,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.79,
+        "calibrated": 2.47,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-29",
+      "league": "La Liga",
+      "match": "Deportivo La Coruna v FC Barcelona",
+      "home_team": "Deportivo La Coruna",
+      "away_team": "FC Barcelona",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.23,
+        "capped_for_display": true
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.47,
+        "calibrated": 2.33,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-29",
+      "league": "La Liga",
+      "match": "RC Celta v Villarreal CF",
+      "home_team": "RC Celta",
+      "away_team": "Villarreal CF",
+      "home": {
+        "raw": 3.14,
+        "calibrated": 2.78,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.38,
+        "calibrated": 2.64,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-29",
+      "league": "La Liga",
+      "match": "Real Sociedad San Sebasti\u00e1n v FC Sevilla",
+      "home_team": "Real Sociedad San Sebasti\u00e1n",
+      "away_team": "FC Sevilla",
+      "home": {
+        "raw": 2.0,
+        "calibrated": 2.54,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 4.21,
+        "calibrated": 2.91,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-11-30",
+      "league": "La Liga",
+      "match": "Espanyol Barcelona v FC Getafe",
+      "home_team": "Espanyol Barcelona",
+      "away_team": "FC Getafe",
+      "home": {
+        "raw": 2.84,
+        "calibrated": 2.73,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.59,
+        "calibrated": 2.69,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-02",
+      "league": "La Liga",
+      "match": "Real Sociedad San Sebasti\u00e1n v Real Madrid",
+      "home_team": "Real Sociedad San Sebasti\u00e1n",
+      "away_team": "Real Madrid",
+      "home": {
+        "raw": 6.0,
+        "calibrated": 3.11,
+        "capped_for_display": true
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 1.62,
+        "calibrated": 2.4,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-02",
+      "league": "La Liga",
+      "match": "FC Barcelona v Atl\u00e9tico de Madrid",
+      "home_team": "FC Barcelona",
+      "away_team": "Atl\u00e9tico de Madrid",
+      "home": {
+        "raw": 1.46,
+        "calibrated": 2.33,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.24,
+        "capped_for_display": true
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-04",
+      "league": "La Liga",
+      "match": "Deportivo Alav\u00e9s v Espanyol Barcelona",
+      "home_team": "Deportivo Alav\u00e9s",
+      "away_team": "Espanyol Barcelona",
+      "home": {
+        "raw": 2.15,
+        "calibrated": 2.58,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 3.65,
+        "calibrated": 2.85,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-05",
+      "league": "La Liga",
+      "match": "Racing Santander v Deportivo La Coruna",
+      "home_team": "Racing Santander",
+      "away_team": "Deportivo La Coruna",
+      "home": {
+        "raw": 2.18,
+        "calibrated": 2.59,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 3.58,
+        "calibrated": 2.84,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-05",
+      "league": "La Liga",
+      "match": "Rayo Vallecano v Levante UD",
+      "home_team": "Rayo Vallecano",
+      "away_team": "Levante UD",
+      "home": {
+        "raw": 2.16,
+        "calibrated": 2.58,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 3.63,
+        "calibrated": 2.85,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-05",
+      "league": "La Liga",
+      "match": "Villarreal CF v Real Sociedad San Sebasti\u00e1n",
+      "home_team": "Villarreal CF",
+      "away_team": "Real Sociedad San Sebasti\u00e1n",
+      "home": {
+        "raw": 3.85,
+        "calibrated": 2.87,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 2.09,
+        "calibrated": 2.56,
+        "capped_for_display": false
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-05",
+      "league": "La Liga",
+      "match": "FC Barcelona v RC Celta",
+      "home_team": "FC Barcelona",
+      "away_team": "RC Celta",
+      "home": {
+        "raw": 1.43,
+        "calibrated": 2.31,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 6.0,
+        "calibrated": 3.27,
+        "capped_for_display": true
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "date": "2026-12-06",
+      "league": "La Liga",
+      "match": "CA Osasuna v FC Elche",
+      "home_team": "CA Osasuna",
+      "away_team": "FC Elche",
+      "home": {
+        "raw": 1.83,
+        "calibrated": 2.48,
+        "capped_for_display": false
+      },
+      "draw": {
+        "league_prior_odds": 3.82,
+        "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
+      },
+      "away": {
+        "raw": 5.26,
+        "calibrated": 2.99,
+        "capped_for_display": false
       },
       "confidence_score": 0.7
     },
@@ -1732,7 +1732,7 @@
       "away_team": "Real Madrid",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.17,
+        "calibrated": 3.21,
         "capped_for_display": true
       },
       "draw": {
@@ -1740,8 +1740,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.54,
-        "calibrated": 2.36,
+        "raw": 1.49,
+        "calibrated": 2.34,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1753,8 +1753,8 @@
       "home_team": "FC Getafe",
       "away_team": "FC Valencia",
       "home": {
-        "raw": 2.97,
-        "calibrated": 2.76,
+        "raw": 2.54,
+        "calibrated": 2.68,
         "capped_for_display": false
       },
       "draw": {
@@ -1762,8 +1762,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.5,
-        "calibrated": 2.67,
+        "raw": 2.91,
+        "calibrated": 2.75,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1776,7 +1776,7 @@
       "away_team": "Real Betis",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.12,
+        "calibrated": 3.18,
         "capped_for_display": true
       },
       "draw": {
@@ -1784,8 +1784,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.6,
-        "calibrated": 2.39,
+        "raw": 1.52,
+        "calibrated": 2.36,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1797,8 +1797,8 @@
       "home_team": "FC Sevilla",
       "away_team": "FC M\u00e1laga",
       "home": {
-        "raw": 3.79,
-        "calibrated": 2.87,
+        "raw": 3.26,
+        "calibrated": 2.8,
         "capped_for_display": false
       },
       "draw": {
@@ -1806,8 +1806,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.11,
-        "calibrated": 2.57,
+        "raw": 2.32,
+        "calibrated": 2.63,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1819,8 +1819,8 @@
       "home_team": "Espanyol Barcelona",
       "away_team": "RC Celta",
       "home": {
-        "raw": 5.14,
-        "calibrated": 2.98,
+        "raw": 3.52,
+        "calibrated": 2.84,
         "capped_for_display": false
       },
       "draw": {
@@ -1828,8 +1828,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.84,
-        "calibrated": 2.48,
+        "raw": 2.2,
+        "calibrated": 2.6,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1842,7 +1842,7 @@
       "away_team": "FC Barcelona",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.13,
+        "calibrated": 3.22,
         "capped_for_display": true
       },
       "draw": {
@@ -1850,8 +1850,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.6,
-        "calibrated": 2.39,
+        "raw": 1.48,
+        "calibrated": 2.34,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1863,8 +1863,8 @@
       "home_team": "Real Madrid",
       "away_team": "CA Osasuna",
       "home": {
-        "raw": 1.59,
-        "calibrated": 2.39,
+        "raw": 1.56,
+        "calibrated": 2.38,
         "capped_for_display": false
       },
       "draw": {
@@ -1873,7 +1873,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.13,
+        "calibrated": 3.15,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -1885,8 +1885,8 @@
       "home_team": "Deportivo La Coruna",
       "away_team": "Athletic Bilbao",
       "home": {
-        "raw": 1.79,
-        "calibrated": 2.47,
+        "raw": 2.45,
+        "calibrated": 2.66,
         "capped_for_display": false
       },
       "draw": {
@@ -1894,8 +1894,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 5.54,
-        "calibrated": 3.0,
+        "raw": 3.02,
+        "calibrated": 2.77,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1907,8 +1907,8 @@
       "home_team": "Levante UD",
       "away_team": "Deportivo Alav\u00e9s",
       "home": {
-        "raw": 3.56,
-        "calibrated": 2.84,
+        "raw": 3.64,
+        "calibrated": 2.85,
         "capped_for_display": false
       },
       "draw": {
@@ -1916,8 +1916,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.19,
-        "calibrated": 2.59,
+        "raw": 2.16,
+        "calibrated": 2.58,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1929,8 +1929,8 @@
       "home_team": "FC Elche",
       "away_team": "FC Sevilla",
       "home": {
-        "raw": 4.46,
-        "calibrated": 2.93,
+        "raw": 3.74,
+        "calibrated": 2.86,
         "capped_for_display": false
       },
       "draw": {
@@ -1938,8 +1938,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.95,
-        "calibrated": 2.52,
+        "raw": 2.12,
+        "calibrated": 2.57,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -1951,8 +1951,8 @@
       "home_team": "Villarreal CF",
       "away_team": "Rayo Vallecano",
       "home": {
-        "raw": 2.3,
-        "calibrated": 2.62,
+        "raw": 2.45,
+        "calibrated": 2.66,
         "capped_for_display": false
       },
       "draw": {
@@ -1960,8 +1960,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 3.3,
-        "calibrated": 2.81,
+        "raw": 3.03,
+        "calibrated": 2.77,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2005,7 +2005,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.03,
+        "calibrated": 3.04,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2017,8 +2017,8 @@
       "home_team": "Atl\u00e9tico de Madrid",
       "away_team": "FC Valencia",
       "home": {
-        "raw": 1.85,
-        "calibrated": 2.49,
+        "raw": 1.93,
+        "calibrated": 2.52,
         "capped_for_display": false
       },
       "draw": {
@@ -2026,8 +2026,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 5.1,
-        "calibrated": 2.98,
+        "raw": 4.54,
+        "calibrated": 2.94,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2039,8 +2039,8 @@
       "home_team": "ESTAC Troyes",
       "away_team": "Le Havre AC",
       "home": {
-        "raw": 3.19,
-        "calibrated": 2.74,
+        "raw": 3.6,
+        "calibrated": 2.79,
         "capped_for_display": false
       },
       "draw": {
@@ -2048,8 +2048,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.27,
-        "calibrated": 2.57,
+        "raw": 2.1,
+        "calibrated": 2.53,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2061,8 +2061,8 @@
       "home_team": "OGC Nizza",
       "away_team": "FC Paris Saint-Germain",
       "home": {
-        "raw": 3.97,
-        "calibrated": 2.83,
+        "raw": 3.52,
+        "calibrated": 2.78,
         "capped_for_display": false
       },
       "draw": {
@@ -2070,8 +2070,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.99,
-        "calibrated": 2.49,
+        "raw": 2.13,
+        "calibrated": 2.53,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2083,8 +2083,8 @@
       "home_team": "AS Monaco",
       "away_team": "AJ Auxerre",
       "home": {
-        "raw": 5.55,
-        "calibrated": 2.95,
+        "raw": 5.24,
+        "calibrated": 2.93,
         "capped_for_display": false
       },
       "draw": {
@@ -2092,8 +2092,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.74,
-        "calibrated": 2.41,
+        "raw": 1.78,
+        "calibrated": 2.42,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2105,7 +2105,7 @@
       "home_team": "RC Lens",
       "away_team": "FC Toulouse",
       "home": {
-        "raw": 3.09,
+        "raw": 3.1,
         "calibrated": 2.73,
         "capped_for_display": false
       },
@@ -2127,8 +2127,8 @@
       "home_team": "LOSC Lille",
       "away_team": "Olympique Lyon",
       "home": {
-        "raw": 2.58,
-        "calibrated": 2.64,
+        "raw": 2.74,
+        "calibrated": 2.67,
         "capped_for_display": false
       },
       "draw": {
@@ -2136,8 +2136,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.73,
-        "calibrated": 2.67,
+        "raw": 2.57,
+        "calibrated": 2.64,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2150,7 +2150,7 @@
       "away_team": "Stade Brest 29",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.16,
+        "calibrated": 3.09,
         "capped_for_display": true
       },
       "draw": {
@@ -2158,8 +2158,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.44,
-        "calibrated": 2.28,
+        "raw": 1.52,
+        "calibrated": 2.32,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2171,8 +2171,8 @@
       "home_team": "Paris FC",
       "away_team": "Angers SCO",
       "home": {
-        "raw": 1.58,
-        "calibrated": 2.35,
+        "raw": 1.56,
+        "calibrated": 2.34,
         "capped_for_display": false
       },
       "draw": {
@@ -2181,7 +2181,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.05,
+        "calibrated": 3.06,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2194,7 +2194,7 @@
       "away_team": "FC Stade Rennes",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.2,
+        "calibrated": 3.18,
         "capped_for_display": true
       },
       "draw": {
@@ -2202,8 +2202,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.4,
-        "calibrated": 2.26,
+        "raw": 1.42,
+        "calibrated": 2.27,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2215,8 +2215,8 @@
       "home_team": "Olympique Marseille",
       "away_team": "FC Le Mans",
       "home": {
-        "raw": 1.65,
-        "calibrated": 2.37,
+        "raw": 1.48,
+        "calibrated": 2.31,
         "capped_for_display": false
       },
       "draw": {
@@ -2225,7 +2225,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.0,
+        "calibrated": 3.12,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2237,8 +2237,8 @@
       "home_team": "Stade Brest 29",
       "away_team": "Paris FC",
       "home": {
-        "raw": 1.72,
-        "calibrated": 2.4,
+        "raw": 1.87,
+        "calibrated": 2.46,
         "capped_for_display": false
       },
       "draw": {
@@ -2246,8 +2246,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 5.77,
-        "calibrated": 2.96,
+        "raw": 4.55,
+        "calibrated": 2.88,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2259,8 +2259,8 @@
       "home_team": "Angers SCO",
       "away_team": "RC Lens",
       "home": {
-        "raw": 4.47,
-        "calibrated": 2.88,
+        "raw": 3.87,
+        "calibrated": 2.82,
         "capped_for_display": false
       },
       "draw": {
@@ -2268,8 +2268,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.89,
-        "calibrated": 2.46,
+        "raw": 2.02,
+        "calibrated": 2.5,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2281,8 +2281,8 @@
       "home_team": "FC Le Mans",
       "away_team": "LOSC Lille",
       "home": {
-        "raw": 4.01,
-        "calibrated": 2.84,
+        "raw": 4.36,
+        "calibrated": 2.87,
         "capped_for_display": false
       },
       "draw": {
@@ -2290,8 +2290,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.98,
-        "calibrated": 2.49,
+        "raw": 1.91,
+        "calibrated": 2.47,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2303,8 +2303,8 @@
       "home_team": "OGC Nizza",
       "away_team": "ESTAC Troyes",
       "home": {
-        "raw": 1.65,
-        "calibrated": 2.38,
+        "raw": 1.49,
+        "calibrated": 2.31,
         "capped_for_display": false
       },
       "draw": {
@@ -2313,7 +2313,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.0,
+        "calibrated": 3.12,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2325,8 +2325,8 @@
       "home_team": "Le Havre AC",
       "away_team": "RC Stra\u00dfburg Alsace",
       "home": {
-        "raw": 2.15,
-        "calibrated": 2.54,
+        "raw": 3.28,
+        "calibrated": 2.75,
         "capped_for_display": false
       },
       "draw": {
@@ -2334,8 +2334,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 3.46,
-        "calibrated": 2.78,
+        "raw": 2.23,
+        "calibrated": 2.56,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2347,8 +2347,8 @@
       "home_team": "FC Paris Saint-Germain",
       "away_team": "FC Lorient",
       "home": {
-        "raw": 1.43,
-        "calibrated": 2.28,
+        "raw": 1.45,
+        "calibrated": 2.29,
         "capped_for_display": false
       },
       "draw": {
@@ -2357,7 +2357,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.17,
+        "calibrated": 3.16,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2369,8 +2369,8 @@
       "home_team": "AJ Auxerre",
       "away_team": "Olympique Marseille",
       "home": {
-        "raw": 4.41,
-        "calibrated": 2.87,
+        "raw": 4.82,
+        "calibrated": 2.9,
         "capped_for_display": false
       },
       "draw": {
@@ -2378,8 +2378,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.9,
-        "calibrated": 2.46,
+        "raw": 1.83,
+        "calibrated": 2.44,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2392,7 +2392,7 @@
       "away_team": "FC Stade Rennes",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.08,
+        "calibrated": 3.06,
         "capped_for_display": true
       },
       "draw": {
@@ -2400,8 +2400,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.53,
-        "calibrated": 2.33,
+        "raw": 1.57,
+        "calibrated": 2.34,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2413,8 +2413,8 @@
       "home_team": "Olympique Lyon",
       "away_team": "AS Monaco",
       "home": {
-        "raw": 1.71,
-        "calibrated": 2.4,
+        "raw": 1.92,
+        "calibrated": 2.47,
         "capped_for_display": false
       },
       "draw": {
@@ -2422,8 +2422,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 5.87,
-        "calibrated": 2.96,
+        "raw": 4.29,
+        "calibrated": 2.86,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2436,7 +2436,7 @@
       "away_team": "FC Paris Saint-Germain",
       "home": {
         "raw": 6.0,
-        "calibrated": 3.02,
+        "calibrated": 3.01,
         "capped_for_display": true
       },
       "draw": {
@@ -2444,7 +2444,7 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.63,
+        "raw": 1.64,
         "calibrated": 2.37,
         "capped_for_display": false
       },
@@ -2457,8 +2457,8 @@
       "home_team": "LOSC Lille",
       "away_team": "AJ Auxerre",
       "home": {
-        "raw": 2.49,
-        "calibrated": 2.62,
+        "raw": 3.19,
+        "calibrated": 2.74,
         "capped_for_display": false
       },
       "draw": {
@@ -2466,8 +2466,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.83,
-        "calibrated": 2.69,
+        "raw": 2.27,
+        "calibrated": 2.57,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2479,8 +2479,8 @@
       "home_team": "AS Monaco",
       "away_team": "Angers SCO",
       "home": {
-        "raw": 3.34,
-        "calibrated": 2.76,
+        "raw": 2.98,
+        "calibrated": 2.71,
         "capped_for_display": false
       },
       "draw": {
@@ -2488,8 +2488,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.2,
-        "calibrated": 2.55,
+        "raw": 2.39,
+        "calibrated": 2.6,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2501,8 +2501,8 @@
       "home_team": "RC Lens",
       "away_team": "Le Havre AC",
       "home": {
-        "raw": 2.67,
-        "calibrated": 2.66,
+        "raw": 2.27,
+        "calibrated": 2.57,
         "capped_for_display": false
       },
       "draw": {
@@ -2510,8 +2510,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.64,
-        "calibrated": 2.65,
+        "raw": 3.19,
+        "calibrated": 2.74,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2523,8 +2523,8 @@
       "home_team": "RC Stra\u00dfburg Alsace",
       "away_team": "FC Lorient",
       "home": {
-        "raw": 2.3,
-        "calibrated": 2.58,
+        "raw": 1.97,
+        "calibrated": 2.49,
         "capped_for_display": false
       },
       "draw": {
@@ -2532,8 +2532,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 3.14,
-        "calibrated": 2.73,
+        "raw": 4.05,
+        "calibrated": 2.84,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2545,8 +2545,8 @@
       "home_team": "Paris FC",
       "away_team": "FC Le Mans",
       "home": {
-        "raw": 1.62,
-        "calibrated": 2.37,
+        "raw": 1.5,
+        "calibrated": 2.31,
         "capped_for_display": false
       },
       "draw": {
@@ -2555,7 +2555,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.02,
+        "calibrated": 3.11,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2567,8 +2567,8 @@
       "home_team": "ESTAC Troyes",
       "away_team": "Olympique Lyon",
       "home": {
-        "raw": 3.08,
-        "calibrated": 2.73,
+        "raw": 4.3,
+        "calibrated": 2.86,
         "capped_for_display": false
       },
       "draw": {
@@ -2576,8 +2576,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.33,
-        "calibrated": 2.58,
+        "raw": 1.92,
+        "calibrated": 2.47,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2589,8 +2589,8 @@
       "home_team": "FC Stade Rennes",
       "away_team": "Stade Brest 29",
       "home": {
-        "raw": 2.47,
-        "calibrated": 2.62,
+        "raw": 2.61,
+        "calibrated": 2.65,
         "capped_for_display": false
       },
       "draw": {
@@ -2598,8 +2598,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.86,
-        "calibrated": 2.69,
+        "raw": 2.69,
+        "calibrated": 2.66,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2611,8 +2611,8 @@
       "home_team": "Olympique Marseille",
       "away_team": "OGC Nizza",
       "home": {
-        "raw": 3.22,
-        "calibrated": 2.75,
+        "raw": 2.74,
+        "calibrated": 2.67,
         "capped_for_display": false
       },
       "draw": {
@@ -2620,8 +2620,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.25,
-        "calibrated": 2.56,
+        "raw": 2.57,
+        "calibrated": 2.64,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2633,8 +2633,8 @@
       "home_team": "AJ Auxerre",
       "away_team": "FC Toulouse",
       "home": {
-        "raw": 3.32,
-        "calibrated": 2.76,
+        "raw": 2.77,
+        "calibrated": 2.67,
         "capped_for_display": false
       },
       "draw": {
@@ -2642,8 +2642,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.21,
-        "calibrated": 2.55,
+        "raw": 2.54,
+        "calibrated": 2.63,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2655,8 +2655,8 @@
       "home_team": "FC Paris Saint-Germain",
       "away_team": "Paris FC",
       "home": {
-        "raw": 1.83,
-        "calibrated": 2.44,
+        "raw": 2.0,
+        "calibrated": 2.5,
         "capped_for_display": false
       },
       "draw": {
@@ -2664,8 +2664,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 4.83,
-        "calibrated": 2.9,
+        "raw": 3.92,
+        "calibrated": 2.83,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2677,8 +2677,8 @@
       "home_team": "OGC Nizza",
       "away_team": "RC Lens",
       "home": {
-        "raw": 1.78,
-        "calibrated": 2.42,
+        "raw": 1.71,
+        "calibrated": 2.4,
         "capped_for_display": false
       },
       "draw": {
@@ -2686,8 +2686,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 5.24,
-        "calibrated": 2.93,
+        "raw": 5.89,
+        "calibrated": 2.97,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2699,8 +2699,8 @@
       "home_team": "Angers SCO",
       "away_team": "RC Stra\u00dfburg Alsace",
       "home": {
-        "raw": 3.3,
-        "calibrated": 2.76,
+        "raw": 3.99,
+        "calibrated": 2.84,
         "capped_for_display": false
       },
       "draw": {
@@ -2708,8 +2708,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 2.22,
-        "calibrated": 2.56,
+        "raw": 1.99,
+        "calibrated": 2.49,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2721,8 +2721,8 @@
       "home_team": "Stade Brest 29",
       "away_team": "ESTAC Troyes",
       "home": {
-        "raw": 1.45,
-        "calibrated": 2.29,
+        "raw": 1.4,
+        "calibrated": 2.27,
         "capped_for_display": false
       },
       "draw": {
@@ -2731,7 +2731,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.15,
+        "calibrated": 3.19,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2743,8 +2743,8 @@
       "home_team": "Le Havre AC",
       "away_team": "FC Le Mans",
       "home": {
-        "raw": 1.98,
-        "calibrated": 2.49,
+        "raw": 2.04,
+        "calibrated": 2.51,
         "capped_for_display": false
       },
       "draw": {
@@ -2752,8 +2752,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 4.03,
-        "calibrated": 2.84,
+        "raw": 3.79,
+        "calibrated": 2.81,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2765,8 +2765,8 @@
       "home_team": "FC Lorient",
       "away_team": "LOSC Lille",
       "home": {
-        "raw": 4.23,
-        "calibrated": 2.86,
+        "raw": 3.61,
+        "calibrated": 2.79,
         "capped_for_display": false
       },
       "draw": {
@@ -2774,8 +2774,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.93,
-        "calibrated": 2.48,
+        "raw": 2.1,
+        "calibrated": 2.52,
         "capped_for_display": false
       },
       "confidence_score": 0.7
@@ -2787,8 +2787,8 @@
       "home_team": "FC Stade Rennes",
       "away_team": "AS Monaco",
       "home": {
-        "raw": 1.37,
-        "calibrated": 2.25,
+        "raw": 1.4,
+        "calibrated": 2.27,
         "capped_for_display": false
       },
       "draw": {
@@ -2797,7 +2797,7 @@
       },
       "away": {
         "raw": 6.0,
-        "calibrated": 3.23,
+        "calibrated": 3.2,
         "capped_for_display": true
       },
       "confidence_score": 0.7
@@ -2809,8 +2809,8 @@
       "home_team": "Olympique Lyon",
       "away_team": "Olympique Marseille",
       "home": {
-        "raw": 4.19,
-        "calibrated": 2.85,
+        "raw": 5.94,
+        "calibrated": 2.97,
         "capped_for_display": false
       },
       "draw": {
@@ -2818,8 +2818,8 @@
         "note": "league-wide draw rate, not a per-match price -- model does not currently price the draw outcome individually"
       },
       "away": {
-        "raw": 1.94,
-        "calibrated": 2.48,
+        "raw": 1.71,
+        "calibrated": 2.4,
         "capped_for_display": false
       },
       "confidence_score": 0.7
