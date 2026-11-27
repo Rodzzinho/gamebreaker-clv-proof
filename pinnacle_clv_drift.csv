@@ -488,24 +488,18 @@ Atletico Madrid v Barcelona,Barcelona,La Liga,1.91,,,,1.9,+0.53%,TBD,1.8
 Derby County v Bolton Wanderers,Bolton Wanderers,Championship,2.95,,,,2.84,+3.87%,L,2.44
 Charlton Athletic v Sheffield United,Sheffield United,Championship,2.16,,,,1.87,+15.51%,L (lost 2-1),1.93
 West Bromwich Albion v Millwall,Millwall,Championship,3.53,,,,3.91,-9.72%,L (lost 3-0),3.12
-Coritiba v Santos,Santos,Brazil Serie A,2.17,,,,,,TBD,1.98
-Lille v Lyon,Lyon,Ligue 1,3.09,,,,,,TBD,2.72
-Lens v Toulouse,Toulouse,Ligue 1,4,,,,,,TBD,3.78
+Coritiba v Santos,Santos,Brazil Serie A,2.17,,,,2.05,+5.85%,W 1-0,1.98
+Lens v Toulouse,Toulouse,Ligue 1,4,,,,3.41,+17.30%,D (1-1),3.78
 Monaco v Auxerre,Auxerre,Ligue 1,7.1,,,,,,TBD,5.9
-Strasbourg v Brest,Brest,Ligue 1,3.05,,,,,,TBD,2.51
-Troyes v Le Havre,Le Havre,Ligue 1,3.45,,,,,,TBD,2.47
-Manchester City v Fulham,Fulham,Premier League,6.66,,,,,,TBD,5.99
-Chelsea v Leeds United,Leeds United,Premier League,4.05,,,,,,TBD,3.77
-Brentford v Everton,Everton,Premier League,3.88,,,,,,TBD,3.55
-Coventry City v Crystal Palace,Coventry City,Premier League,2.42,,,,,,TBD,2.24
-Liverpool v Manchester United,Manchester United,Premier League,3.98,,,,,,TBD,3.4
-Deportivo Alaves v Deportivo La Coruna,Deportivo La Coruna,La Liga,3.72,,,,,,TBD,2.36
-Rayo Vallecano v Valencia,Rayo Vallecano,La Liga,1.97,,,,,,TBD,1.9
-Sevilla v Real Betis,Real Betis,La Liga,2.45,,,,,,TBD,2.2
-Real Madrid v Celta,Celta,La Liga,11.34,,,,,,TBD,8.79
-Barcelona v Villarreal,Villarreal,La Liga,9.96,,,,,,TBD,8.99
-Racing Santander v Real Sociedad,Real Sociedad,La Liga,2.16,,,,,,TBD,1.98
-Osasuna v Malaga,Malaga,La Liga,4.68,,,,,,TBD,3.76
+Troyes v Le Havre,Le Havre,Ligue 1,3.49,,,,3.42,+2.05%,TBD,2.47
+Manchester City v Fulham,Fulham,Premier League,6.66,,,,,,L (drew 1-1),5.99
+Chelsea v Leeds United,Leeds United,Premier League,4.05,,,,3.9,+3.85%,W (won 4-1),3.77
+Brentford v Everton,Everton,Premier League,3.88,,,,3.47,+11.82%,L (lost 4-0; Everton finished with 10 men),3.55
+Liverpool v Manchester United,Manchester United,Premier League,3.98,,,,,,DROPPED (pick dropped before kick-off; possible team news leak from a drone at United training. Excluded from CLV mean),3.4
+Deportivo Alaves v Deportivo La Coruna,Deportivo La Coruna,La Liga,3.72,,,,3.74,-0.53%,TBD,2.36
+Rayo Vallecano v Valencia,Rayo Vallecano,La Liga,1.97,,,,2.02,-2.48%,TBD,1.9
+Sevilla v Real Betis,Real Betis,La Liga,2.45,,,,2.58,-5.04%,D 1-1 (Betis led 1-0; cashed out before the late equaliser),2.2
+Racing Santander v Real Sociedad,Real Sociedad,La Liga,2.16,,,,2.1,+2.86%,L (3-2),1.98
 Blackburn Rovers v West Ham United,Blackburn Rovers,Championship,4.48,,,,4.79,-6.47%,W (won 2-1),4.05
 Wrexham v Wolverhampton Wanderers,Wolverhampton Wanderers,Championship,2.17,,,,2.12,+2.36%,D,1.97
 Portsmouth v Stoke City,Stoke City,Championship,3.21,,,,3.28,-2.13%,W,2.52
@@ -513,30 +507,51 @@ Bristol City v Norwich City,Norwich City,Championship,2.63,,,,2.54,+3.54%,W,2.18
 Cardiff City v Burnley,Burnley,Championship,3.33,,,,3.6,-7.50%,L (lost 5-4),3.09
 Elche v Real Betis,Real Betis,La Liga,2.14,,,,1.81,+18.23%,W,2
 Real Sociedad v Rayo Vallecano,Rayo Vallecano,La Liga,4.76,,,,4.2,+13.33%,L,4
-Cruzeiro v Palmeiras,Palmeiras,Brazil Serie A,2.49,,,,,,TBD,2.12
+Cruzeiro v Palmeiras,Palmeiras,Brazil Serie A,2.49,,,,2.85,-12.63%,L 2-1 (Palmeiras led 1-0; cashed out at 1-0 before the loss),2.12
 Mirassol v Atletico-MG,Atletico-MG,Brazil Serie A,3.76,,,,3.28,+14.63%,D,2.1
-Gremio v Bahia,Gremio,Brazil Serie A,2.3,,,,,,TBD,2.11
-Sao Paulo v Fluminense,Fluminense,Brazil Serie A,3.11,,,,,,TBD,2.09
-Corinthians v Botafogo,Botafogo,Brazil Serie A,4.38,,,,,,TBD,2.7
-Vitoria v Bragantino,Bragantino,Brazil Serie A,2.52,,,,,,TBD,2.22
-Norwich City v Cardiff City,Cardiff City,Championship,3.92,,,,,,TBD,3.26
-Millwall v Queens Park Rangers,Millwall,Championship,2.43,,,,,,TBD,2.15
-Swansea City v West Bromwich Albion,West Bromwich Albion,Championship,2.94,,,,,,TBD,2.46
-Stoke City v Birmingham City,Stoke City,Championship,2.75,,,,,,TBD,2.54
-Lincoln City v Wrexham,Wrexham,Championship,2.54,,,,,,TBD,2.22
-Burnley v Blackburn Rovers,Blackburn Rovers,Championship,4.17,,,,,,TBD,2.96
-Leeds United v Coventry City,Coventry City,Premier League,5.31,,,,,,TBD,4.59
-Everton v Liverpool,Everton,Premier League,3.48,,,,,,TBD,3.02
-Elche v Atletico Madrid,Elche,La Liga,5.17,,,,,,TBD,4.82
+Gremio v Bahia,Gremio,Brazil Serie A,2.3,,,,2.4,-4.17%,L 0-0 (Gremio goal cancelled by VAR),2.11
+Sao Paulo v Fluminense,Fluminense,Brazil Serie A,3.11,,,,2.99,+4.01%,W 1-0,2.09
+Corinthians v Botafogo,Botafogo,Brazil Serie A,4.38,,,,5.15,-14.95%,L 0-4,2.7
+Vitoria v Bragantino,Bragantino,Brazil Serie A,2.52,,,,2.62,-3.82%,TBD,2.22
+Norwich City v Cardiff City,Cardiff City,Championship,3.92,,,,4.8,-18.33%,L,3.26
+Stoke City v Birmingham City,Stoke City,Championship,3.13,,,,2.86,+9.44%,W (won 1-0; Stoke with 10 men),2.54
+Swansea City v West Bromwich Albion,West Bromwich Albion,Championship,2.94,,,,2.88,+2.08%,D (2-2),2.46
+Burnley v Blackburn Rovers,Blackburn Rovers,Championship,4.17,,,,4.47,-6.71%,L,2.96
 Celta v Villarreal,Villarreal,La Liga,2.58,,,,,,TBD,2.4
-Brest v Paris FC,Paris FC,Ligue 1,2.19,,,,,,TBD,2.0
-Manchester United v Brentford,Brentford,Premier League,3.24,,,,,,TBD,2.48
 Ipswich Town v Aston Villa,Ipswich Town,Premier League,3.45,,,,,,TBD,3.17
-Crystal Palace v Hull City,Hull City,Premier League,4.06,,,,,,TBD,3.02
-Fulham v Bournemouth,Bournemouth,Premier League,2.51,,,,,,TBD,2.39
-Arsenal v Manchester City,Manchester City,Premier League,3.15,,,,,,TBD,2.71
-Levante v Racing Santander,Racing Santander,La Liga,3.46,,,,,,TBD,2.46
-Valencia v Osasuna,Osasuna,La Liga,3.38,,,,,,TBD,2.51
+Levante v Racing Santander,Racing Santander,La Liga,3.46,,,,3.54,-2.26%,TBD,2.46
 Real Sociedad v Sevilla,Sevilla,La Liga,3.24,,,,,,TBD,2.82
-Le Havre v Strasbourg,Le Havre,Ligue 1,2.96,,,,,,TBD,2.54
-Lyon v AS Monaco,AS Monaco,Ligue 1,3.1,,,,,,TBD,2.92
+Millwall v Queens Park Rangers,Millwall,Championship,2.62,,,,2.63,-0.38%,L (lost 1-0),2.15
+Strasbourg v Brest,Brest,Ligue 1,3.09,,,,3.34,-7.49%,W,2.74
+Coventry City v Crystal Palace,Coventry City,Premier League,2.47,,,,2.53,-2.37%,W (won 3-2),2.35
+Lille v Lyon,Lille,Ligue 1,2.4,,,,2.42,-0.83%,L,2.25
+
+Palmeiras v Flamengo,Flamengo,Brazil Serie A,2.69,,,,2.6,+3.46%,D 1-1 (Brazil rough model not validated; Flamengo unbeaten in 16 and title decider),2.04
+Atletico-MG v Corinthians,Corinthians,Brazil Serie A,2.93,,,,,,TBD (Wed 25 Nov 23:00; Atletico-MG have the Copa Libertadores final v Boca so rotation possible),2.66
+Bragantino v Vasco,Vasco,Brazil Serie A,2.94,,,,2.51,+17.13%,L (1-0),2.60
+Botafogo v Sao Paulo,Sao Paulo,Brazil Serie A,3.23,,,,3.19,+1.25%,L,2.98
+Stoke City v Millwall,Stoke City,Championship,2.39,,,,2.08,+14.90%,W (won 2-1),2.19
+Sheffield United v Southampton,Southampton,Championship,2.74,,,,3.34,-17.96%,L (drew 1-1),2.5
+Charlton Athletic v Lincoln City,Charlton Athletic,Championship,2.72,,,,2.72,+0.00%,W (won 4-0),2.56
+Middlesbrough v Swansea City,Swansea City,Championship,6.37,,,,6.3,+1.11%,L (lost 2-1),5
+Norwich City v Queens Park Rangers,Norwich City,Championship,1.99,,,,2,-0.50%,L (drew 1-1),1.87
+Bolton Wanderers v West Bromwich Albion,Bolton Wanderers,Championship,3.61,,,,3.95,-8.61%,L (lost 3-1),3.32
+Sunderland v Tottenham Hotspur,Tottenham Hotspur,Premier League,2.22,,,,,,TBD,2
+Fluminense v Cruzeiro,Cruzeiro,Brazil Serie A,3.33,,,,,,TBD (entry = Pinnacle price given; Brazil rough model not validated),2.37
+Mirassol v Athletico-PR,Athletico-PR,Brazil Serie A,3.35,,,,,,TBD (entry = Pinnacle price given; Brazil rough model not validated),2.10
+Toulouse v Rennes,Rennes,Ligue 1,2.62,,,,,,TBD (entry = Pinnacle price; fair = calibrated; Rennes play Europa so may change),2.33
+Lyon v Monaco,Lyon,Ligue 1,2.43,,,,,,TBD (entry = Pinnacle price; fair = raw; replaces earlier Monaco row),1.9
+Alaves v Espanyol,Espanyol,La Liga,4.18,,,,,,TBD (entry = Pinnacle price; fair = raw),3.72
+Villarreal v Real Sociedad,Real Sociedad,La Liga,4.25,,,,,,TBD (entry = Pinnacle price; fair = calibrated; refresh tomorrow),2.56
+Rennes v Brest,Brest,Ligue 1,4.03,,,,,,TBD (entry = Pinnacle price; fair = calibrated),2.66
+Nottingham Forest v Chelsea,Nottingham Forest,Premier League,2.88,,,,2.45,+17.55%,TBD (entry = Pinnacle price; fair = calibrated),2.66
+Watford v Blackburn Rovers,Blackburn Rovers,Championship,2.66,,,,2.86,-6.99%,W (won 1-0),2.06
+Fulham v Bournemouth,Bournemouth,Premier League,2.64,,,,,,TBD (entry = Pinnacle price; fair = calibrated),2.36
+Brest v Paris FC,Paris FC,Ligue 1,2.23,,,,2.14,+4.21%,TBD (entry = Pinnacle price; fair = Rodney given),2
+Valencia v Osasuna,Osasuna,La Liga,3.79,,,,,,TBD (entry = Pinnacle price; fair = Rodney given),3.54
+Manchester United v Brentford,Brentford,Premier League,3.5,,,,,,TBD (entry = Pinnacle price; fair = Rodney given),2.99
+Le Havre v Strasbourg,Strasbourg,Ligue 1,2.29,,,,,,TBD (entry = Pinnacle price; fair = Rodney given),2.13
+Southampton v Middlesbrough,Middlesbrough,Championship,2.28,,,,2.23,+2.24%,TBD (entry = Pinnacle price; fair = Rodney given),2.17
+Queens Park Rangers v Sheffield United,Sheffield United,Championship,3.49,,,,,,TBD (entry = Pinnacle price; fair = Rodney given),2.84
+Swansea City v Cardiff City,Swansea City,Championship,2.07,,,,,,TBD (entry = Pinnacle price; fair = Rodney given),1.97
+Arsenal v Real Madrid,Real Madrid,Champions League,3.04,,,,,,TBD (entry = Pinnacle price; fair = calibrated),2.62
